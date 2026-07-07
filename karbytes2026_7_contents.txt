@@ -20,7 +20,7 @@ file_5: KARBYTES_Curated_Music_Randomizer-main.zip // 801.97 megabytes
 
 file_6: karbytes_basement_54-main.zip // 29.66 megabytes
 
-file_7: KARLINA_OBJECT_extension_pack_70-main_06july2026.zip // 1.97 megabytes
+file_7: KARLINA_OBJECT_extension_pack_70-main_06july2026.zip // 32.73 megabytes
 
 file_8: KARLINA_OBJECT_APPS-main.zip // 22.84 megabytes
 
@@ -58,6 +58,6 @@ file_23: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip // 286.09 
 
 Total number of files: 24
 
-Total folder size: 6895.15 megabytes
+Total folder size: 6925.92 megabytes
 
 --------------------------------
