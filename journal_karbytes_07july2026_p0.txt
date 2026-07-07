@@ -1,0 +1,19 @@
+/**
+ * file: journal_karbytes_07july2026_p0.txt
+ * type: plain-text
+ * date: 07_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a series of audio transcriptions (performed by TurboScribe.ai) of each of the video files featured in the web page at the following Uniform Resource Locator: 
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01july2026/
+
+* * *
+
+VIDEO_TRANSCRIPTION_0
+
+video_file_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_67/main/karbytes_ranting_14june2026_p0.mp4
+
+video_transcription: 
