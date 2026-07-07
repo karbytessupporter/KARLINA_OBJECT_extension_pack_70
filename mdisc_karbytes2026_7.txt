@@ -482,7 +482,7 @@ M_DISC 3 of 3 data collection size: approximately 8 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_7: // folder contains exactly 24 files (approximately 6870.66 megabytes total).
+karbytes2026_7: // folder contains exactly 24 files (approximately 6925.92 megabytes total).
 
     - zip_file_0: karbytes_23AndMe_Ancestry_Data-main.zip // 6.8 megabytes
 
@@ -516,13 +516,13 @@ karbytes2026_7: // folder contains exactly 24 files (approximately 6870.66 megab
 
     - zip_file_15: KARLINA_OBJECT_extension_pack_69-main.zip // 1.3 gigabytes
 
-    - zip_file_16: KARLINA_OBJECT_extension_pack_70-main.zip // ?? megaabytes
+    - zip_file_16: KARLINA_OBJECT_extension_pack_70-main_06july2026.zip // 34.3 megaabytes
 
     - zip_file_17: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.9 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
     - zip_file_18: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_19: karbytes_wayback_machine_saves_precision_batches_extension_1-main_06july2026.zip // 174.3 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_19: karbytes_wayback_machine_saves_precision_batches_extension_1-main_06july2026.zip // 177.9 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_20: karbytes_basement_53-main.zip // 147.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
