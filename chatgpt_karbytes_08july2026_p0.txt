@@ -1,0 +1,103 @@
+/**
+ * file: chatgpt_karbytes_08july2026_p0.txt
+ * type: plain-text
+ * date: 08_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.5 which took place between 11:59PM Pacific Standard Time on 06_JULY_2026 and 11:59PM Pacific Standard Time on 08_JULY_2026.
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_07september2025/
+
+* * *
+
+karbytes:
+
+Is Agent Mode still available?
+
+ChatGPT:
+
+Yes. As of July 6, 2026, Agent mode is still available in ChatGPT. OpenAI’s current help documentation says it is available on Pro, Plus, Business, Enterprise, and Edu plans in supported countries and territories.
+
+Since you’re on ChatGPT Plus, you should still be eligible. The current pricing page also explicitly lists “expanded deep research and agent mode” under Plus.
+
+You can check the official instructions here: ChatGPT agent help page. In the interface, Agent mode is generally selected from the tools / “+” menu near the message composer. If you’re asking because you no longer see the option in your current UI, I can help investigate that specifically.
+
+karbytes:
+
+I don't see any options to use Agent Mode right now. Apparently, my quota renews tomorrow. 
+
+ChatGPT:
+
+Yes—that strongly suggests you’ve simply exhausted your current Agent mode allowance, rather than Agent mode having been removed from your account.
+
+OpenAI’s current official documentation says Plus gets 40 Agent mode messages per month, and only the initial user-requested Agent invocation counts toward that limit; intermediate clarification or authentication steps do not.
+
+So if your UI is telling you that your quota renews tomorrow, my best interpretation is: Agent mode is temporarily unavailable because your monthly allowance is exhausted, and it should become usable again after the stated reset. The fact that you remember using Agent mode in prior conversations also fits that explanation. I should correct my previous answer slightly: saying you “should still see the option” was too confident, because the UI can apparently withhold or disable access when usage is exhausted.
+
+The authoritative page is OpenAI’s ChatGPT agent help page.
+
+[OpenAI’s ChatGPT agent help page: https://help.openai.com/en/articles/11752874-chatgpt-agent?utm_source=chatgpt.com]
+
+karbytes:
+
+It took several hours into 07_JULY_2026 (starting at 12:00AM Pacific Standard Time) for my Agent Mode monthly quota (of 40 usage units) to renew. What exactly are those units?
+
+ChatGPT:
+
+I’ll check the current official OpenAI wording rather than rely on memory, because Agent Mode limits and reset behavior can change.
+
+[Thought for 24s]
+
+Those “40 usage units” are best understood as 40 Agent Mode messages / unique Agent invocations per month on Plus.
+
+OpenAI’s help page does not describe them as compute-minutes, browser clicks, website visits, tokens, or individual agent actions. It says Plus gets 40 messages/month, and that only initial user-initiated agent requests count. Intermediate clarification steps or authentication steps do not count against the limit. It also says each unique agent invocation counts, including agent requests created through scheduled tasks.
+
+So practically:
+
+[preformatted_text]
+
+Scenario --------------------------------------------------------------------| Likely count
+“Use Agent Mode to check all links on this page” ----------------------------| 1 unit
+Agent asks you to clarify something -----------------------------------------| 0 extra
+Agent pauses so you can log in / authenticate -------------------------------| 0 extra
+Agent browses 30 pages, clicks links, runs code, edits a spreadsheet --------| still part of that 1 unit
+You start a new separate Agent task -----------------------------------------| +1 unit
+A scheduled task runs using Agent -------------------------------------------| +1 unit
+
+[end preformatted_text]
+
+The reset timing you observed is plausible but not fully explained by the public Agent help page. The Agent page confirms the monthly allowance but does not specify the exact reset clock, timezone, or whether Plus resets are tied to UTC, billing cycle, first use, or backend propagation. For comparison, some OpenAI usage-limit systems use a UTC calendar-month reset, but that cited article is specifically for Enterprise/Edu workspace usage limits, not necessarily Plus Agent Mode.
+
+One small terminology note: in July, California civil time is usually Pacific Daylight Time, not Pacific Standard Time. So 12:00 AM local time on 07_JULY_2026 would normally be PDT, UTC−7. That may or may not matter for ChatGPT’s quota reset, but it can explain some apparent “off by an hour/several hours” timing weirdness.
+
+karbytes:
+
+Can Agent Mode do everything standard ChatGPT can do even better?
+
+ChatGPT:
+
+I’ll ground this in current OpenAI descriptions, because the distinction between normal ChatGPT, deep research, and Agent Mode is product-specific and may keep changing.
+
+[Thought for 6s]
+
+No. Agent Mode is not simply “standard ChatGPT, but better at everything.” It is better for some kinds of tasks and worse or wasteful for others.
+
+Agent Mode is best when the task requires doing things, not merely answering: navigating websites, checking pages, using a browser, working through multi-step online workflows, reading uploaded/connected files, using apps/connectors, filling forms, running code, analyzing data, or editing spreadsheets. OpenAI describes it as a mode for “complex online tasks” where ChatGPT can reason, research, and take actions using tools such as a visual browser, code interpreter, apps, and terminal.
+
+For your KARBYTES work, Agent Mode is especially suitable for things like: checking a WordPress page for broken links, following every GitHub/raw-file URL, comparing a public page against an uploaded HTML file, collecting screenshots or source evidence, verifying whether resources exist, or doing a multi-step website audit.
+
+Standard ChatGPT is often better for ordinary conversation and composition. It is faster, does not consume scarce Agent quota, has less operational overhead, and is usually enough for discussion, conceptual analysis, rewriting, coding help, math explanation, planning, and interpreting text you paste directly into the chat. For example, if you ask, “Does this paragraph sound too shrill?” or “Help me reason about this mythos,” Agent Mode adds little.
+
+Deep Research may still be better than Agent Mode for some research reports. OpenAI’s own Agent announcement says Agent includes deep-research-like abilities, but also notes that the original deep research feature may take longer and provide more detailed, in-depth responses by default.
+
+So the practical rule is:
+
+Use standard ChatGPT for thinking, writing, explaining, revising, brainstorming, coding guidance, and discussion.
+
+Use Agent Mode when the answer depends on multi-step interaction with external websites, files, accounts, web apps, spreadsheets, or repeated verification.
+
+Use Deep Research when the goal is a careful, citation-heavy research report rather than an action workflow.
+
+Agent Mode is more like giving ChatGPT a temporary virtual workstation and browser. That makes it more powerful for external task execution, but not automatically more intelligent, more concise, more accurate, or more appropriate for every prompt.
