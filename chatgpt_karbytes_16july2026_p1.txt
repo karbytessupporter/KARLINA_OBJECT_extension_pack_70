@@ -28,4 +28,16 @@ All 22 distinct Karbytes For Life Blog destinations load at their exact URLs, an
 
 The text and PNG checks are straightforward, but direct MP4 navigation is slower because the browser attempts to initialize the media stream. I’m waiting for metadata rather than downloading the full videos.
 
+The cloud browser’s URL policy blocks direct navigation to raw.githubusercontent.com, so I cannot truthfully mark the five raw-file destinations as content-verified from that browser alone. A GitHub connection would allow direct repository-level verification of those files; I’m suggesting it while I continue checking the remaining public destinations independently.
+
+[GitHub Connect]
+
+karbytes:
+
+I have since added files to the public @karlinarayberinger GitHub repository named KARLINA_OBJECT_extension_pack_70 and updated its micro-directory web page. Retry the original request.
+
+ChatGPT:
+
+[...]
+
 [...]
