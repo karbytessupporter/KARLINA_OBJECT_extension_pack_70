@@ -38,6 +38,79 @@ I have since added files to the public @karlinarayberinger GitHub repository nam
 
 ChatGPT:
 
-[...]
+[Worked for 4m 6s]
+
+I retried the complete audit against the updated public repository and live micro-directory.
+
+The [article](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_c/) still contains 43 authored hyperlinks representing 37 unique destinations:
+
+* 35 unique destinations are correct.
+* 1 is relevant but imprecise.
+* 1 is broken.
+
+[preformatted_text]
+
+| Status  | Destination                                                                                                                                                                                                                           |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Broken  | The linked `new_agent_mode_of_chatgpt_karbytes_first_use_case_16july2026_screenshot.png` returns GitHub API 404. The updated micro-directory still lists this nonexistent path.                                                       |
+| Correct | [`chatgpt_karbytes_16july2026_p0.txt`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/blob/main/chatgpt_karbytes_16july2026_p0.txt) exists, and its header and transcript content match the webpage.          |
+| Correct | [`new_agent_mode_of_chatgpt_karbytes_first_use_case_16july2026_p0.mp4`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/blob/main/new_agent_mode_of_chatgpt_karbytes_first_use_case_16july2026_p0.mp4) exists. |
+| Correct | [`new_agent_mode_of_chatgpt_karbytes_first_use_case_16july2026_p1.mp4`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/blob/main/new_agent_mode_of_chatgpt_karbytes_first_use_case_16july2026_p1.mp4) exists. |
+| Correct | [`karbytes_for_life_blog_updates.txt`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/blob/main/karbytes_for_life_blog_updates.txt) exists and is the intended update log.                                    |
+| Correct | The `@informationcrystals` account exists, and [`informationcrystals/projects`](https://github.com/informationcrystals/projects) is public on `main`.                                                                                 |
+
+[end preformatted_text]
+
+The visible screenshot on WordPress still renders successfully from WordPress’s own media storage. Only its separate raw-GitHub `image_link` is broken. The most direct correction is to upload the PNG with that exact filename to the root of `main`, or change both the article and micro-directory links to its actual repository path.
+
+All 22 distinct KARBYTES/WordPress destinations were retested and still load with matching titles and headings. The ordinary Wikipedia and PUBLIC_DOMAIN references also remain correct. “ChatGPT 5.6 Sol Extra High” still leads to the [general GPT‑5.6 article](https://en.wikipedia.org/wiki/GPT-5.6), which discusses GPT‑5.6 and Sol but not the specific “Extra High” reasoning setting; it is relevant but not exact.
+
+The three malformed non-links from the earlier audit also remain:
+
+* `h‌ttps://learn.chatgpt.com/docs/whats-new`
+* `h‌ttps://learn.chatgpt.com/docs/get-started-with-work`
+* `h‌ttps://chatgpt.com/codex/install.sh`
+
+The repository HTML source contains `h&#8204;ttps://`, so this is present in the uploaded HTML itself, not introduced by WordPress. Remove `&#8204;` and explicitly hyperlink those URLs.
+
+The updated micro-directory currently contains 185 extension-pack-70 raw-link instances, but the broken screenshot entry is among them.
+
+karbytes:
+
+I have since added the missing PNG image to the respective GitHub repository and tested the links to that image myself and see that they work. The three "malformed" links you mentioned have a zero width space character in them so that they appear to be full URLs on the web page but don't appear as auto-generated hyperlinks. I wanted to only make hyperlinks to KARBYTES files or to Wikipedia pages.
+
+ChatGPT:
+
+Understood. That changes the interpretation:
+
+- The PNG link is now repaired and personally verified by you.
+
+- The three h‌ttps:// strings are intentionally non-clickable. The zero-width character prevents WordPress from auto-generating hyperlinks while preserving the URL’s visual appearance.
+
+- This follows your deliberate linking policy: hyperlinks are reserved for KARBYTES resources and Wikipedia pages; other external URLs remain visible as plain text.
+
+Therefore, those three strings should not be classified as malformed or erroneous. With the PNG added, the link audit has no remaining known broken destinations.
+
+karbytes:
+
+Do me a favor and watch each of the two linked videos and tell me what you notice  visually and audio-wise.
+
+ChatGPT:
+
+[Worked for 1m 10s]
+
+I can verify both MP4s exist, but the GitHub connection provides only their metadata—not playable video/audio bytes. I can’t honestly describe them without viewing them.
+
+Please attach both MP4 files directly here. I’ll then watch each from beginning to end and compare their visuals, screen activity, speech, music, ambient sound, and recording quality.
+
+karbytes:
+
+Can you download them yourself from the web page whose URL I shared with you?
+
+ChatGPT:
+
+Not in this environment. The WordPress page only links to the MP4s on raw.githubusercontent.com; the browser blocks direct retrieval of those binary URLs, while the GitHub connection exposes metadata but not the playable bytes.
+
+Please attach the two MP4s here, and I can analyze them fully.
 
 [...]
