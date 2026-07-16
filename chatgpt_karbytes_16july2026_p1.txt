@@ -375,3 +375,27 @@ karbytes:
 While we are at the web page pointed to by that URL, let's try searching for the aforementioned video by submitting its URL to the search field on the Internet Archive page.
 
 ChatGPT:
+
+[Worked for 26s]
+
+The interactive attempt failed before the page loaded. Although the noninteractive web reader can retrieve the Wayback homepage, the cloud browser reports an explicit security restriction against using web.archive.org. Consequently, I could not focus the search field or submit the video URL, and I’m prohibited from bypassing that restriction through another automated route.
+
+So the distinction is now clear:
+
+- Text-only retrieval of the Wayback homepage: works.
+
+- Interactive browser use of Wayback: blocked.
+
+- The URL-search submission: did not occur.
+
+If you perform the search and provide the resulting capture URL, we can next test whether the noninteractive web reader can retrieve that specific archived resource.
+
+karbytes:
+
+So I take it that current security configurations of your environment (from your end) effectively forbid you from searching through the WayBack Machine's database?
+
+ChatGPT:
+
+Yes. In this current environment, I can retrieve the Wayback Machine’s public homepage as static text, but I cannot interact with its search form or query its capture database. Direct availability queries were also rejected.
+
+So, effectively, Wayback database searching and archived-file retrieval are currently forbidden from my end—even though basic access to the homepage itself works. This is an environment-specific security restriction, not evidence that the capture is missing or inaccessible to ordinary browsers.
