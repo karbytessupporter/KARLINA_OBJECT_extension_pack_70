@@ -226,10 +226,10 @@ GPT‑5.6 Sol is not documented as secretly transcribing uploaded audio and with
 
 For your videos, I received no hidden transcript. I extracted the audio tracks and analyzed their technical/acoustic characteristics; because they contained desktop music and no intelligible speech, I did not run speech recognition.
 
+If you provide a video containing speech, the reliable request would be: “Extract the audio and give me a complete timestamped transcript.” Whether that succeeds inside Work depends on whether a transcription tool is available in that session; otherwise the dedicated OpenAI speech-to-text service is required.
+
 karbytes: 
 
 [uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/karbytes_thinking_19june2026_p0.mp4]
 
 Alright, here is a test to see whether or not you can currently transcribe a video within your current environment. Attempt to transcribe the uploaded video.
-
-If you provide a video containing speech, the reliable request would be: “Extract the audio and give me a complete timestamped transcript.” Whether that succeeds inside Work depends on whether a transcription tool is available in that session; otherwise the dedicated OpenAI speech-to-text service is required.
