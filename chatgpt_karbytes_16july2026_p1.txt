@@ -357,3 +357,15 @@ I attempted to:
 The search returned no indexed result, and the cloud browser explicitly refused navigation to archive.org under its current security configuration. I’m also prohibited from bypassing that restriction through command-line downloading or another browser surface.
 
 Therefore, I could not determine the latest capture timestamp or view/download the archived MP4. This does not demonstrate that the Wayback save is absent or defective—only that this environment currently blocks the necessary Internet Archive access.
+
+karbytes:
+
+Interesting. Let's try first visiting the following URL: https://web.archive.org/
+
+ChatGPT:
+
+[Worked for 14s]
+
+Success: https://web.archive.org/ loaded correctly. I could read the Wayback Machine homepage, including its archive-search field and “Save Page Now” interface.
+
+Therefore, Internet Archive access is not globally blocked here. The earlier failure was specific to the availability-query URL or the cloud-browser security layer—not the base Wayback domain itself.
