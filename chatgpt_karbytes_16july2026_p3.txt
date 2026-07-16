@@ -249,3 +249,9 @@ The source dates cover several months, but they coexist in one continuous presen
 Visually, the central black portrait column is especially resonant with the KARBYTES motifs of embedding, enclosure, void-space, and something dark or organic wedged inside a rigid surrounding structure. Here that imagery is created partly by the source videos and partly by the white browser viewport around them.
 
 The artifact is therefore both documentary and generative. It documents that the earlier files existed and were recoverable from archived GitHub URLs, but the act of playing them together creates a new audiovisual object that none of the individual sources contains alone.
+
+karbytes:
+
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/a_cup_of_green_tea_16july2026_p0.mp4]
+
+Oop! That was the wrong video. Here is the video I intended to upload.
