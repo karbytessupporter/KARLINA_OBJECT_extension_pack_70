@@ -339,3 +339,21 @@ The only material uncertainty is whether you said “The video I had it transcri
 karbytes:
 
 Excellent! I see that you were able to independently transcribe (and even normalize the transcription of) that video which I did not yet upload to a public GitHub repository at the time I uploaded it to you. The next experiment involves asking you to attempt downloading or viewing in browser the following GitHub-hosted video's latest WayBack Machine save of that video using the following original Uniform Resource Locator (URL): https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_near_its_burrow_16july2026_p1.mp4
+
+ChatGPT:
+
+[Worked for 1m 33s]
+
+The experiment reached a clear negative result in this environment.
+
+I attempted to:
+
+- Search for the archived filename.
+
+- Query the Wayback availability endpoint using the exact original GitHub URL.
+
+- Navigate directly to that availability query in the cloud browser.
+
+The search returned no indexed result, and the cloud browser explicitly refused navigation to archive.org under its current security configuration. I’m also prohibited from bypassing that restriction through command-line downloading or another browser surface.
+
+Therefore, I could not determine the latest capture timestamp or view/download the archived MP4. This does not demonstrate that the Wayback save is absent or defective—only that this environment currently blocks the necessary Internet Archive access.
