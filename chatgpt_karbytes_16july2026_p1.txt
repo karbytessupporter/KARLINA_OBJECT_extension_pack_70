@@ -233,3 +233,73 @@ karbytes:
 [uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/karbytes_thinking_19june2026_p0.mp4]
 
 Alright, here is a test to see whether or not you can currently transcribe a video within your current environment. Attempt to transcribe the uploaded video.
+
+ChatGPT:
+
+[Worked for 13m 16s]
+
+Yes—the test succeeded. I extracted the MP4’s audio and transcribed it locally using offline speech-recognition models. This was tool-assisted transcription inside the Work environment, not GPT‑5.6 Sol directly decoding the audio.
+
+I used multiple recognition passes and reconciled them, normalizing obvious names such as KARBYTES and Karlina Object. One phrase remains uncertain: “25 gigs” may actually be “25 megs.”
+
+Transcript
+
+[00:00–00:45]
+
+I was thinking that a possible interpretation of the official first KARBYTES hiatus, which is occurring during the summer of 2026, is that a part of KARBYTES doesn’t actually come back from that hiatus.
+
+And instead, what happens? A new KARBYTES emerges during that time—and what happens to be a higher-level KARBYTES.
+
+I tried to say this before in dictation mode until I noticed that there’s no cellular signal out here. So anyway, I’m trying to replicate what the input would have sounded like.
+
+[00:45–01:18]
+
+So, given what I said, it’s like an asymptote. So what happened is, up until a certain point in time, the old KARBYTES puts out a poster saying—announcing—it’s the new KARBYTES, or the official KARBYTES 2026 hiatus, the first hiatus I apparently ever took, which is supposed to go on until at least the Fourth of July this year, 2026.
+
+[01:18–02:13]
+
+And that seems like a reasonable amount of time to take a break from updating the KARBYTES.
+
+And I thought I’d go ahead and make some kind of hidden repository somewhere on the web. It’s public, so I can keep updating things and testing it at the public web.
+
+I decided to save myself the trouble of that and continue just simply updating the current open micro-directory of the KARBYTES, which is color-coded to indicate, in lavender instead of green, that it’s open to continued changes. And usually that’s just the addition of files.
+
+I don’t typically like to edit files once they’re officially in their finalized state. So files that keep getting updated until the micro-directories seem to be finalized are things like the updates log, which logs the time at which a specific section of KARBYTES was updated.
+
+[02:13–03:07]
+
+The main site—the secondary site, which I used to call the primary site—is named karlinaobject.wordpress.com.
+
+That site I use as kind of like a front for the bigger back rooms of KARBYTES. So the front room is a storefront, basically, which is selling something that’s open source—basically what my brand is. And you can go on and on and on about what my brand is.
+
+But yeah, it represents digitization of my experience. And what I am is a unique allocation of nature, which I define as having the attributes of my particular human genome and the fact that I authored those two websites, which I call KARBYTES, in all capital letters.
+
+[03:07–03:41]
+
+And those two websites are karlinaobject.wordpress.com, which is deemed to be in its finalized state, and the other website, which is karbytesforlife.wordpress.com.
+
+And that is deemed to be open to changes for as long as I’m living, basically. According to things I’ve generated today in text form while hiking through the Big Green Thing from Castro Valley to San Ramon—
+
+[03:41–04:15]
+
+I somehow have over 30 minutes left of usable memory to make this video. That’s very odd, connecting back to the other day.
+
+How long can this go on for? It’s only just four minutes. I’ve recorded longer than this playing the drums, had no problem compressing it down to 25 “gigs” [possibly “megs”].
+
+If I have to, I’ll just cut it into multiple pieces. I don’t think I’ll have to do that.
+
+[04:15–05:09]
+
+I can test that today, right now, without any internet connection, because I have an app on my phone which compresses video files into 25 megabytes or less, because that’s the limit for the uploads according to my current GitHub configurations.
+
+I don’t want to mess around with the command line. I’d rather just do things through the GUI instead, unless there’s a good reason to do otherwise.
+
+Generally, all my tech-related activities are just hobbies. I’m not necessarily trying to get a job at this time doing tech things. Instead, I’m just planning on taking some kind of simple, brainless job that is kind of easy for me to do, so I can have the funds to continue to subsidize my cost of living and fund my own projects. That’s what I plan on doing.
+
+[05:09–05:33]
+
+So I’m waiting until the holidays to seriously start applying for those seasonal-to-more-permanent-position-type jobs, because I know that there’s a kind of process to how they work.
+
+And I think I have a good shot at getting lucky this time. It’s all a matter of just punctuality—having my shit together. So I think as long as I can do that, there’s no problem with me being able to balance all this.
+
+So the experiment establishes that this Work environment can transcribe an uploaded video by extracting its audio and invoking an available or locally provisioned speech-recognition tool.
