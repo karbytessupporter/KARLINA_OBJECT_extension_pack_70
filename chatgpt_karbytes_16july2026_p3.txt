@@ -172,6 +172,7 @@ The overview is invoked repeatedly at approximately:
 * 8:51
 
 * 9:22
+
 * 9:25
 
 karbytes selects one window, returns to full-screen browser playback, cycles through more source tabs, then re-enters the overview and selects the other window. The short overview animations expose the desktop wallpaper for roughly a second at a time.
@@ -207,7 +208,9 @@ At ordinary brightness, most source imagery appears almost entirely black. It is
 The landscape videos fill most of the browser’s width, leaving relatively narrow white margins. Their visible field is a deep violet-black or maroon-black with exceedingly subtle mottling. The portrait videos occupy only the central quarter of the viewport, producing a stark composition:
 
 * Large white field on the left.
+
 * Tall, narrow, nearly black rectangle in the center.
+
 * Large white field on the right.
 
 That repeated central rectangle resembles a vertical monolith, sealed passage, aperture, void, or narrow chamber. The browser layout gives the darkness a distinct boundary, making it look embedded in the surrounding white field.
@@ -215,9 +218,13 @@ That repeated central rectangle resembles a vertical monolith, sealed passage, a
 The source imagery has mean pixel levels of only about 4–6 on a 0–255 scale in representative dark regions. Aggressive contrast recovery reveals:
 
 * Purple, blue, burgundy, and brown color information.
+
 * Broad organic gradients rather than featureless digital black.
+
 * Occasional rounded dark silhouettes rising from the bottom or lower side of a portrait frame.
+
 * Blotchy central concentrations that might correspond to bodies, fabric, walls, or other close-range physical subjects.
+
 * Strong block-shaped compression patterns.
 
 The `blackened_karbytes_22may2026_p0.mp4` and `pig_guy_27may2026_p5.mp4` samples contain the clearest rounded foreground masses. They look organic, but the exposure is too low to identify anatomy or a specific subject responsibly. Some of the visible blocks are also undoubtedly H.264 compression artifacts amplified by contrast recovery.
@@ -229,8 +236,11 @@ The normal presentation should therefore be understood as deliberately obscured 
 The most immediately conspicuous visual effect is the recurrent change between:
 
 * A nearly full-width black-violet field.
+
 * A narrow black vertical strip with bright white sides.
+
 * The dark GNOME overview with two miniature white–black–white windows.
+
 * The dark gray OBS interface.
 
 Because karbytes changes tabs every few seconds, large portions of the screen abruptly change luminance. This creates a slow flash or pulse—roughly one transition every two to fifteen seconds, commonly every three to six seconds—rather than a high-frequency strobe.
@@ -244,12 +254,19 @@ OBS visibly records Desktop Audio only. There is no live microphone layer.
 Technical audio properties:
 
 * AAC-LC
+
 * 48 kHz
+
 * Nominally stereo, but effectively almost mono
+
 * Left/right correlation: approximately 0.9995
+
 * Average volume: about −22 dBFS
+
 * Integrated loudness: approximately −19.3 LUFS
+
 * True peak: approximately −6.2 dBFS
+
 * Loudness range: only 2.8 LU
 
 After a brief sub-threshold interval from approximately 0.69 to 1.64 seconds, there is no silence longer than half a second for the remainder of the recording. The audio is therefore a virtually continuous desktop-generated mass.
@@ -257,9 +274,13 @@ After a brief sub-threshold interval from approximately 0.69 to 1.64 seconds, th
 Spectrally, it is:
 
 * Strongest in the low and lower-middle frequencies.
+
 * Median spectral center around 653 Hz.
+
 * Dense with overlapping harmonic bands.
+
 * Interrupted by irregular broadband transient spikes.
+
 * Severely reduced above roughly 7.5 kHz, consistent with the low AAC bitrate and layered source compression.
 
 The result behaves more like a sustained mixture of processed recordings, guitar-associated material, noise, and short repeating audiovisual fragments than a spoken monologue. No isolated live voice can be separated from the composite. Because several speaker-marked tabs are open simultaneously, individual sounds cannot reliably be assigned to whichever page happens to be visible.
@@ -271,10 +292,15 @@ The audio and image are partially decoupled: switching the active tab changes th
 The outer desktop supplies another layer of visual identity:
 
 * Ubuntu/GNOME top bar with date and time centered.
+
 * Orange screen-recording indicator at upper right.
+
 * Left-side dock containing Firefox, another browser, Tor Browser, Files, Terminal, Sublime Text, a text editor, VLC, OBS, Trash, and the Ubuntu applications icon.
+
 * Dark Firefox chrome against the almost monochrome archived videos.
+
 * Bright Wayback banners that continually reassert dates, repository paths, and capture counts.
+
 * Abstract magenta/cyan desktop wallpaper visible only during window switching.
 
 No webcam image or live view of karbytes appears. karbytes is present through cursor movement, window selection, tab sequencing, and the decision to combine the recordings.
@@ -286,10 +312,15 @@ The strongest subject is not any single concealed video. It is the act of retrie
 The recording converts archival verification into performance:
 
 * GitHub directories become instruments.
+
 * Wayback snapshots become playable historical states.
+
 * Browser tabs become tracks.
+
 * Firefox windows become banks or channels.
+
 * GNOME Overview becomes a mixer-selection surface.
+
 * OBS becomes the final containing vessel.
 
 The source dates cover several months, but they coexist in one continuous present. Their order is repeatedly scrambled, so the result is associative rather than chronological. January, February, March, April, and May artifacts are treated as simultaneously available components of one current KARBYTES state.
@@ -325,9 +356,13 @@ A medium-tan hand supports the mug primarily from beneath and around its body. T
 The floor is covered in gray, low-pile carpet with visible fibers, pale flecks, and small pieces of debris. Several background objects establish this as a lived-in floor-level workspace rather than a staged product shot:
 
 * Bright red-orange fabric or a soft bag lies toward the upper left.
+
 * Black over-ear headphones—or possibly similarly shaped hearing protectors—rest partly on the red material.
+
 * A black cable runs irregularly across the carpet.
+
 * A slim silver or light-gray rectangular electronic object sits behind or to the left of the cup. The resolution is insufficient to determine whether it is an adapter, drive, power bank, or another device.
+
 * A green-and-black patterned or braided item intermittently enters the lower-left edge.
 
 The lighting is dim and diffuse. There are no hard shadows or direct highlights. The dominant palette is gray, cream-white, black, and olive green, with the red-orange fabric providing the only strong color contrast. The red and green also function as loose complementary colors, although the red object remains secondary and partially obscured.
@@ -362,9 +397,13 @@ The video appears to be one continuous take. Automated scene-change peaks corres
 The recording is unmistakably handheld:
 
 * There is persistent low-amplitude tremor.
+
 * The mug drifts instead of remaining precisely centered.
+
 * Focus hunts during the closest approaches.
+
 * Exposure becomes darker when the phone and hand obstruct ambient light or appear as reflections.
+
 * The camera’s distance, rather than an event involving the tea, supplies the video’s rhythm.
 
 The movement repeatedly changes the cup’s visual identity. From farther away, it is an ordinary beverage embedded in a specific environment. From directly above, its depth collapses: the bright rim becomes a ring and the liquid becomes a flat green disk. At extreme proximity, even the complete ring disappears, leaving a green field bordered by one pale arc.
@@ -378,8 +417,11 @@ The file contains a continuous mono audio track. After approximately 0.4 seconds
 The soundtrack contains:
 
 * Broad, persistent room-like hiss or mechanical noise.
+
 * Repeating tonal and harmonic bands.
+
 * Muffled, electronically reproduced speech-like or vocal material.
+
 * Occasional transient changes that may include microphone or handling noise.
 
 The vocal component is too masked, distorted, distant, or layered for a responsible verbatim transcription. I separated and denoised the track and tested it in short intervals; automated speech recognition produced inconsistent, grammatically incoherent fragments rather than a stable utterance. I therefore would not treat any proposed wording as genuine dialogue.
@@ -389,11 +431,17 @@ The safe description is that continuous, indistinct vocal or program-like audio 
 Measured audio characteristics:
 
 * AAC-LC
+
 * Mono
+
 * 48 kHz sampling rate
+
 * Approximately 161 kb/s
+
 * Mean level around −24.6 dBFS
+
 * Peak around −6.2 dBFS
+
 * Audio begins roughly 26 milliseconds after the video and ends about 97 milliseconds before the last video frame
 
 ## Formal and interpretive reading
