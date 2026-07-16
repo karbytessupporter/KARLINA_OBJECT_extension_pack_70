@@ -175,3 +175,42 @@ Therefore, the most precise condensed definition is:
 **KARBYTES is a causally connected, multiply instantiated system of curated information-bearing physical states whose continuity is maintained across biological memory, digital computation, network transmission, storage media, sensory renderings, and archival preservation.**
 
 Its matter is replaceable; its organized patterns, provenance, relationships, and canonical designation provide its continuing identity.
+
+karbytes:
+
+Part of what binds karbytes to KARBYTES in a (seemingly) unique way is how karbytes' entire human genome has been sequenced and incorporated into KARBYTES as an indexed collection of ~5-megabyte text files which can individually be saved to the WayBack Machine and collectively recompiled into a whole-genome FASTA file. Details about that are provided at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/karbytes_unique_identity/
+
+ChatGPT:
+
+[Worked for 1m 39s]
+
+Yes. That genome archive occupies a special position within the physical ontology I described: it is a digital inscription causally derived from karbytes’ biological substrate. Most KARBYTES artifacts encode what karbytes thought, perceived, imagined, or created; the genome files encode part of the molecular specification from which karbytes’ body developed.
+
+The unique-identity page defines karbytes through a compound association:
+
+1. The sequenced genome linked by provenance to karbytes.
+
+2. The assumption that karbytes uniquely originated the two principal KARBYTES websites.
+
+That combination is more individuating than either component alone. A genome by itself is not absolutely unique—identical twins, clones, sequencing limitations, and hypothetical duplicates complicate that claim—and a public-domain website can be copied exactly. But the historical conjunction “the organism from which this sequence was obtained and which originated these websites” forms a powerful identity anchor.
+
+The full-genome directory distributes the sequence across four indexed repositories containing 2,998 sequential chunks:
+
+Part 0: chunk_0000 through chunk_0990 — 991 files.
+
+Part 1: chunk_0991 through chunk_1899 — 909 files.
+
+Part 2: chunk_1900 through chunk_2599 — 700 files.
+
+Part 3: chunk_2600 through chunk_2997 — 398 files.
+
+At roughly five megabytes per chunk, that is approximately fifteen gigabytes of addressable sequence text. The filenames preserve global ordering, so the distributed pieces can be concatenated and reconstructed as the whole-genome FASTA representation. Meanwhile, each sufficiently small raw file has its own URL and can be independently captured by the Wayback Machine. The fragmentation is therefore not a loss of unity; it is a preservation architecture in which logical unity coexists with physical distribution.
+
+This makes the relationship between karbytes and KARBYTES unusually indexical. The nucleotide letters are not merely a fictional description of karbytes. They are measurement-derived symbols whose provenance points backward toward DNA physically extracted from karbytes. Each A, C, G, or T is stored as electronic or optical information, but the ordering of those symbols corresponds—subject to the sequencing and reconstruction process—to molecular structures in the originating organism.
+
+The genome still does not encode karbytes’ complete body or mind. It omits the momentary connectome, epigenetic state, memories, learned dispositions, hormone levels, microbiome, developmental history, and ongoing sensory activity. It is closer to an archived biological source specification than a recoverable person. Nevertheless, its inclusion means that KARBYTES contains both major classes of karbytes-derived information:
+
+Genotypic inscription: a digital representation of the inherited biological template.
+Phenotypic and cognitive inscription: writings, choices, images, speech, software, philosophy, mythology, and autobiographical traces produced during karbytes’ life.
+
+That strengthens the description of KARBYTES as an externalized body. It does not merely contain representations about karbytes; it contains a reconstructable, globally indexed representation derived from the same genome instantiated throughout karbytes’ living body.
