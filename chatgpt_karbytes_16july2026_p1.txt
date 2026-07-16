@@ -121,4 +121,91 @@ karbytes:
 
 Alright, here are the two video files. p0 was recorded before p1 was recorded.
 
-[...]
+ChatGPT:
+
+[Worked for 17m 11s]
+
+I watched them in order. They form one continuous screen-recorded session: p0 runs about 6:36 and p1 about 6:25.
+
+p0
+
+- It begins briefly in OBS, then switches to an Ubuntu desktop with ChatGPT Work open in Chromium. The conversation is titled “Sol High vs Extra High.”
+
+- ChatGPT explains the Work/agent-style interface, then attempts to navigate the KARBYTES directories.
+
+- At approximately 00:40, two conspicuous red “Browser handoff unavailable” errors appear. The workflow recovers and continues through manual browser navigation.
+
+- ChatGPT identifies micro-directory 153 as KARLINA_OBJECT_extension_pack_70 and reports:
+
+179 raw-GitHub hyperlink instances in the extension-pack file list
+
+175 distinct extension-pack raw-file URLs
+
+180 raw-GitHub links on the entire page
+
+- You then ask it to follow the (*) social-media link and describe pages shared inside a date window.
+
+- ChatGPT discovers 15 entries posted at approximately 5:00 PM on July 15, but points out that they fall outside the literal July 15–16 window you initially specified.
+
+- Near the end, you correct the interval by saying you meant one calendar day earlier. The video ends while ChatGPT begins processing that correction.
+
+p1
+
+- It starts exactly where p0 leaves off. The desktop clock also supports the continuity: p0 covers roughly 21:04–21:11, while p1 covers 21:11–21:17 on July 15.
+
+- ChatGPT restates the corrected interval as 11:59 PM July 14 through 11:59 PM July 15 and starts inspecting the 15 linked pages.
+
+- The main conversation displays running progress reports such as “Read shared page 12 of 15” and “Read shared page 13 of 15.” The cloud-browser thumbnail on the right cycles through numerous KARBYTES pages.
+
+- Its emerging interpretation groups four Patreon-only pages into a connected “Vessel” cluster, then describes broader material involving the physical burrow, “model-citizen karbytes,” hypothetical-life narratives, image galleries, philosophy, and machine-elf themes.
+
+- Around 05:00, the recording leaves ChatGPT temporarily and shows the actual sources:
+
+- The extension-pack directory with bright green raw-GitHub links
+
+A WordPress transcript page
+
+- A raw GitHub image showing a dry brown ridge with rocks and scattered trees, layered hazy mountains or valleys, and a pinkish sky
+
+- It then returns to ChatGPT. Just before the video ends, ChatGPT says the corrected-day inspection is complete: 15 distinct pages, four Patreon-only and eleven shared elsewhere. It is still “Thinking” and consolidating the material, so the final synthesized answer is not shown.
+
+Audio
+
+- OBS visibly shows Desktop Audio active and Mic/Aux muted in both recordings. Therefore, the soundtrack is computer playback rather than live narration or room sound.
+The audio is predominantly continuous music. I do not detect intelligible spoken commentary.
+
+- It has a somewhat dense, nearly mono presentation, with changing electronic/ambient textures and occasional plucked-string or guitar-like and bell/chime-like elements. Some passages have vocal-like or unusual timbres, but not clear speech.
+
+- p1 contains a clean silence of about 4.4 seconds at approximately 00:18–00:22, apparently a media pause or transition. Otherwise, both soundtracks remain quite consistent in level, with comfortable headroom and no obvious clipping.
+
+The strongest overall impression is that the videos document Work mode visibly recovering from an early browser failure and then conducting a long, source-by-source investigation. p1 demonstrates more actual source traversal than p0, but it stops just before the promised final report.
+
+karbytes:
+
+Does 5.6 Sol Extra High have the ability to transcribe speech in uploaded videos?
+
+ChatGPT:
+
+[Worked for 2m 17s]
+
+Not as a documented, native capability of GPT‑5.6 Sol itself.
+
+“Extra High” is a reasoning-effort setting; it gives Sol more time to reason but does not add an audio modality. In ChatGPT Work, Sol can receive an MP4 and use tools to extract frames or audio, but word-for-word transcription requires a speech-to-text component. OpenAI’s documented method uses models such as gpt-4o-transcribe or gpt-4o-transcribe-diarize; MP4 is supported up to 25 MB. OpenAI Speech-to-Text guide
+
+For your two videos specifically, I did not obtain a transcript from Sol. I extracted and analyzed their audio tracks separately. OBS showed the microphone muted, and the captured desktop audio was music without intelligible speech, so there was nothing meaningful to transcribe.
+
+Thus:
+
+- Upload and inspect an MP4 in Work: yes, as demonstrated here.
+
+- Sol natively listens to and transcribes its speech: not officially documented.
+
+- Tool-assisted MP4 transcription: yes, when a speech-to-text tool/API is available.
+
+- ChatGPT Record: also transcribes audio, but it is a separate feature from ordinary video-file analysis. ChatGPT Record documentation
+
+Your files—approximately 16.6 MB and 23.2 MB—would both fit under the Audio API’s present 25 MB limit.
+
+karbytes: 
+
+Are you suggesting that GPT‑5.6 Sol can transcribe speech in audio recordings but does not share the transcription with the user?
