@@ -1,0 +1,59 @@
+/**
+ * file: karbytes_thinking_10july2026_p2_[video_transcript].txt
+ * type: plain-text
+ * date: 10_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_27june2026/
+
+relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/journal_karbytes_09july2026_p1.txt
+
+* * *
+
+Okay, I'm now climbing up the steep trail, which goes up a hill. [In my blog (i.e. KARBYTES For Life Blog dot WordPress dot Com) there's a blog post showing a photograph of that hill]. I will link this to the blog post in the transcript. 
+
+I'm just gonna make plain text transcripts and at the top of the transcript of this video, there will be some uniform resource locators, which are relevant to the video.
+
+Instead of making HTML files, which have hyperlinks inside of them, for the sake of not having to open up the WordPress sites of KARBYTES, I'm just going to make it plain text inside of the projects repository of @informationcrystals, because that's where the hiatus files are supposed to be localized to exclusively during this particular hiatus bubble. 
+
+What I should note is that I just left the cloud layer and now I see a sky full of stars. No moon, just very clear night sky, lots of stars.
+
+But to the west, there is a layer of clouds, which is kind of above me. So I'm basically right at the edge of where the clouds are. I climbed out along Rocky Ridge Trail.
+
+So if I keep going, I eventually get to the point where there's a field and then you can see the radio tower pretty clearly. So this is the part of the trail that leads kind of directly to where the radio tower is. And then after that, I go down the steep trail, which is mostly paved, or I think the whole thing is paved.
+
+It's a roadway that goes up to the radio tower. I'll be taking that down to where the parking lot is. And that's it.
+
+I'm just describing kind of the trail I went on. So I kind of came in, I went up Elderberry Trail, I think that's what it's called. And then I kind of went down and went into a part called Ramage Peak Trail and went all the way to Ramage Peak, a little bit past it.
+
+And I went to the very end of the walkable road, which is technically not part of Ramage Peak Trail because Ramage Peak Trail branches off to the left and goes into some very kind of hard to see trail area. I went along the road that's kind of wide enough for the cars to go on and stopped once I got to the gate. And I made another video, which I'll be linking to in this transcript.
+
+So the only video I'm linking to in this transcript, which is part of this hiatus bubble, will be that video that I'm talking about. And then I left that spot and made another video. I won't be linking that one.
+
+So I'm only linking one video at a time. I'm already making things complicated. I just thought I should mention this because I'm at a transition point in the trail and in the time of day and the way the weather is.
+
+So before I got to this point on the trail, I didn't see anything above me and it felt like it was just fog and kind of wintry. And now I'm outside, I can see the stars again, and I came out of that big cloud layer. So I'm basically facing it right now.
+
+It's slightly above my head, but I'm at a point where it's kind of constrained by the valley, so it's not going any farther up. So I can see the night sky very clearly with no wisps of cloud in the way. Yesterday, when I was walking around here, I noticed that there was a cloudy layer and the cloudy layer kind of had a soot feel because of the fireworks [from Fourth of July (or post-Fourth-of-July celebrations)].
+
+Today, I didn't notice that as much, not really any at all. Today, it seems like normal again, but the day before that, it seemed like there was some smoke in the air. So maybe, I don't know if I was imagining that or that was really true, but I would imagine it's probably true because the 4th of July wasn't that far off from now.
+
+I don't know, it seems kind of odd that it's been that much time; four days after 4th of July and it was smoky still, and then today, it's not smoky. So I don't know how much of it is just me hallucinating, but yeah, it's about four minutes into this video or four minutes and 35 seconds. This is just more cartology of KARBYTES through the Big Green Thing during this part of the KARBYTES Summer Hiatus of 2026.
+
+And like I said earlier, this is in the deeper part of the Hiatus. And that means that the particular [hiatus] bubble that I'm localized to now is not supposed to be on the canon KARBYTES; not even the WordPress sites as a sneaky little addition until after this hiatus closes. I expect that to be probably two weeks or longer so that there can be some nice gaps on the commits log because so far, there's not very long gaps anywhere in the commit log if you go on to GitHub.
+
+So on @karlinarayberinger's GitHub account, one can see the commits across the time. @karlinarayberinger, the GitHub account, has been keeping KARBYTES files. And it stretches back to, I think, [the year] 2020. And it goes all the way up until [the year] 2026.
+
+And it's supposed to not go past 08_JULY_2026 until after this [micro] hiatus ends. And while I'm in this dark phase of the [macro] Hiatus, (5:58) there's supposed to be no activity on that account and neither on @karbytessupporter GitHub account. So those two accounts are basically kind of part of KARBYTES.
+
+Basically, @karlinarayberinger is the official GitHub account of KARBYTES. But KARBYTES, I think, really includes @karbytessupporter also. Those two GitHub accounts count as the official GitHub accounts of KARBYTES.
+
+But then again, you could say that also @informationcrystals also kind of counts as part of KARBYTES, but in a more controlled, distant kind of way. So I kind of layered it so that they don't interact with each other in ways I don't intend. Because when I have to use the official KARBYTES GitHub accounts, I have to do a lot of logging and checksums and updating timestamps.
+
+So that's just extra overhead compared to how it's currently being done inside the @informationcrystals projects repository. It's just very streamlined during this time. Maybe it's just my new workflow, and I call it hiatus because that's kind of the idealized vision I have for how it's supposed to be.
+
+It's supposed to be fun, it's supposed to be easy, and it's supposed to be meaningful. Well, I better get going.
+
+One last thing. Before I go, I should say that it is approximately 1:54AM Pacific Standard Time on 10_JULY_2026.

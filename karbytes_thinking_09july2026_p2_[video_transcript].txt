@@ -1,0 +1,31 @@
+/**
+ * file: karbytes_thinking_09july2026_p2_[video_transcript].txt
+ * type: plain-text
+ * date: 10_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/journal_karbytes_09july2026_p0.txt
+
+relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_thinking_09july2026_p1_[video_transcript].txt
+
+relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_thinking_09july2026_p0_[video_transcript].txt
+
+relevant_GitHub_profile_[canon_KARBYTES]: https://github.com/karlinarayberinger
+
+relevant_GitHub_profile_[canon_KARBYTES]: https://github.com/karbytessupporter
+
+relevant_GitHub_profile_[KARBYTES_hiatus_files_incubator]: https://github.com/informationcrystals
+
+* * *
+
+It is now approximately 11:20PM Pacific Standard Time and I'm walking back to where my car is parked from deep inside the Big Green Thing slightly west-south of Ramage Peak along Ramage Peak Trail. I'm slowly emerging from the cloud layer that I went into. I descended into it and decided to try a little grounding exercise over there.
+
+I also tried to use TurboScribe from that location but saw that internet connection was not very strong. So just because the indicator of signal strength shows some signal strength doesn't mean that there's usable signal for my purposes. I wasn't able to load any web page so I decided I would just hold on to it until I get to a more strategic time and place to transcribe it.
+
+And what I was thinking of doing is organizing the "dark phase" of the Hiatus files in an interesting sub-index kind of way so it becomes almost like there's layers emerging inside layers. What this is is I will make a journal for a particular day and it'll be a copy of the current state of the temp.txt file. So what I'm thinking about doing is making one for 09_JULY_2026 and calling it part zero and that will have all the files from that day that I think are the most iconic for the start of this "darker phase" of the summer Hiatus.
+
+And then the next day we'll include other stuff in addition to that so each day will show more and more file links as the hiatus period stretches longer and connects to get a decent gap period that I can take a screenshot of in terms of commits that are made to karbytes' GitHub repositories. @informationcrystals is where these files are being stored for the time being and after that gap closes I plan to incorporate those files into the canon KARBYTES. I'll probably be here past midnight just like I was yesterday.
+
+I think that's helping to separate the old KARBYTES[/karbytes] from the new KARBYTES[/karbytes].
