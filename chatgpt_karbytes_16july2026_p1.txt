@@ -399,3 +399,7 @@ ChatGPT:
 Yes. In this current environment, I can retrieve the Wayback Machine’s public homepage as static text, but I cannot interact with its search form or query its capture database. Direct availability queries were also rejected.
 
 So, effectively, Wayback database searching and archived-file retrieval are currently forbidden from my end—even though basic access to the homepage itself works. This is an environment-specific security restriction, not evidence that the capture is missing or inaccessible to ordinary browsers.
+
+karbytes:
+
+Are you able to load and play in browser (or download and play locally) the video at the following URL? https://web.archive.org/web/20260716170828/https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_near_its_burrow_16july2026_p1.mp4
