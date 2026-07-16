@@ -113,4 +113,12 @@ Not in this environment. The WordPress page only links to the MP4s on raw.github
 
 Please attach the two MP4s here, and I can analyze them fully.
 
+karbytes:
+
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/new_agent_mode_of_chatgpt_karbytes_first_use_case_16july2026_p0.mp4]
+
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/new_agent_mode_of_chatgpt_karbytes_first_use_case_16july2026_p1.mp4]
+
+Alright, here are the two video files. p0 was recorded before p1 was recorded.
+
 [...]
