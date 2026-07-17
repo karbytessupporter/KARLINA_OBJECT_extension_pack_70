@@ -1463,3 +1463,174 @@ The ending reinforces that logic. When Firefox repeatedly offers the destructive
 The strongest condensed description is:
 
 > A recursive desktop-archival performance in which videos, screenshots, source indexes, AI commentary, local files, Wayback captures and Tor infrastructure are repeatedly cross-checked, enlarged and preserved—ending with the operator patiently restoring a frozen browser rather than abandoning the archived forest image.
+
+karbytes:
+
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/a_cup_of_green_tea_16july2026_p2.mp4]
+
+Here is the next video upload. Describe any hallucinated speech detection or other "glitchy" auditory artifacts which you detected while analyzing any of these videos.
+
+ChatGPT:
+
+[Worked for 11m 47s]
+
+The key finding is that `obs_studio_recording_16july2026_p2.mp4` contains no credible spoken dialogue. Its audio is desktop/program audio—principally music and later electronic game sounds. The apparent “speech” generated during transcription tests is recognizer hallucination, not a reliable representation of anything spoken in the recording.
+
+## Hallucinated speech across the uploaded videos
+
+I compared two recognition conditions:
+
+* Speech-gated transcription, which first detects likely speech regions.
+
+* Forced transcription, which makes the recognizer decode the entire soundtrack even when it is music, noise, or electronic sound.
+
+The contrast is revealing:
+
+[preformatted_text]
+
+| Video                                    | Speech-gated result                                                                                                          | Forced-recognition behavior                                                                                                                                                                                            | Assessment                                                                                                                                                      |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `a_cup_of_green_tea_16july2026_p0.mp4`   | Invented a fragment resembling “Nothings to some broken hearts, more than gree…” followed by an unnaturally prolonged vowel. | Produced a variant such as “Nothing soothe some broken hearts, more than green,” a very long sequence of repeated letter-like syllables, and then repeatedly invented a crude sentence beginning “Yeah, get it dirty…” | Strong hallucination. The drastic wording changes, endless repetitions, and lack of stable word boundaries make the generated text unusable.                    |
+| `obs_studio_recording_16july2026_p0.mp4` | Only a low-confidence two-word guess resembling “For Agree” near 0:00–0:02.                                                  | Began with an elongated “for the gree…” and then repeatedly generated variations on “Nothing suits a broken heart…” throughout most of the recording.                                                                  | Strong decoder-loop hallucination. The repeated “broken heart/green” theme resembles the tea-video hallucination and is not credible evidence of actual speech. |
+| `obs_studio_recording_16july2026_p1.mp4` | No speech detected and no transcript produced.                                                                               | Repeated the generic caption `(upbeat music)` approximately thirteen times.                                                                                                                                            | No hallucinated lexical speech. The repeated music label is an automated classification guess, not a transcript.                                                |
+| `obs_studio_recording_16july2026_p2.mp4` | No speech detected and no transcript produced.                                                                               | Repeated `(upbeat music)` roughly fifty times, without producing actual words.                                                                                                                                         | No credible speech. The repetition is a recognition artifact caused by forcing a speech model across continuous non-speech audio.                               |
+
+[end preformatted_text]
+
+The offensive or sexualized wording invented for the tea video should not be attributed to anyone in the recording. It appeared only under forced decoding and is a particularly clear example of an ASR system imposing language on ambiguous tonal or vocal-like sound.
+
+The OBS interface itself provides additional corroboration: when visible in p2, the Desktop Audio meter is active, while Mic/Aux is muted or at negative infinity. Thus the recording is capturing computer output, not live microphone narration.
+
+## Other potentially “glitchy” auditory behavior
+
+I found several real discontinuities, but no evidence that any of the four MP4 files is corrupt:
+
+* All four audio streams decode cleanly without malformed AAC packets or decoder errors.
+
+* None contains clipped digital samples.
+
+* The largest peaks remain below full scale:
+
+- Tea video: approximately −9.25 dBFS.
+
+- OBS p0: approximately −4.02 dBFS.
+
+- OBS p1: approximately −5.03 dBFS.
+
+- OBS p2: approximately −2.91 dBFS.
+
+* The pauses are present in the decoded waveform itself. They are therefore encoded source silences or application/track transitions, not playback failures introduced during analysis.
+
+Notable discontinuities include:
+
+* Tea video: about 0.366 seconds of digital silence at the beginning. There are several abrupt level changes around 0:13, 0:36, and 0:45, but no clipping or full-scale impulses.
+
+* OBS p0: the most conspicuous interruptions occur around 0:43.2–0:44.5 and 0:45.0–0:46.0. Shorter interruptions appear near 3:53.1, 4:49.7, 5:21.2, and 7:14.1.
+
+* OBS p1: numerous short dropouts occur in the latter portion, particularly from about 2:24 onward. The longest exact-zero segment is approximately 0.251 seconds near 2:45.4. Several other gaps are between roughly 20 and 114 milliseconds.
+
+* OBS p2: the largest exact-zero or near-zero intervals include approximately:
+
+- 0:44.35–0:44.67
+
+- 0:50.71–0:51.21
+
+- 1:25.40–1:25.69
+
+- 2:51.99–2:52.65
+
+- 3:34.93–3:35.27
+
+- Several very short interruptions around 6:50–6:51 and 6:58–6:59
+
+These correlate reasonably well with browser loading, switching between recorded sources, starting audio tracks, or game events. They may sound like momentary gating or hard cuts. They do not resemble random packet-loss corruption.
+
+P2 also gains several stable, narrow electronic tones after approximately 5:05, at roughly 3, 4.5, and 8.5 kHz. Those tones can sound synthetic, piercing, or “glitchy,” but they coincide with the Falling Apples game and are consistent with deliberate game sound effects. A sharp waveform transition near 5:18.4 is also more consistent with an in-game transient than a codec failure.
+
+## Detailed description of the new p2 video
+
+`obs_studio_recording_16july2026_p2.mp4` is 8:09.633 long. It is an OBS screen capture at 1092×614 pixels, 30 fps, encoded as H.264 High Profile. The audio is 48 kHz stereo AAC-LC at about 58.6 kb/s. Integrated loudness is approximately −17.2 LUFS, with a modest 5.3-LU dynamic range and a −2.8 dBTP true peak.
+
+### 0:00–2:15 — Archived pages, recursion, OBS, and Tor
+
+* The recording begins inside an already recorded or archived browser presentation, producing a nested screen-within-screen appearance.
+
+* A Wayback Machine page displays the large title `JOURNAL_KARBYTES_06JULY2026`.
+
+* Firefox repeatedly shows a “Firefox is not responding” dialog with options to force-quit or wait.
+
+* Around 0:20, the view switches to a WordPress/GitHub-style editor containing multiple highlighted raw GitHub links.
+
+* Around 0:25–0:31, OBS is visible directly. Desktop Audio is active; the microphone channel is muted.
+
+* Firefox then cycles through blank pages, archive loading states, the journal page, highlighted hyperlinks, and nested OBS imagery.
+
+* Approximately 1:20–1:30 consists mainly of gray loading screens and spinning indicators.
+
+* Around 1:35, OBS is shown again.
+
+* At approximately 1:45, a text file named `mo_onion.txt` is visible with an onion address.
+
+* Tor Browser appears disconnected around 1:55, then reaches its connected “Explore Privately” screen by approximately 2:05–2:10.
+
+### 2:15–3:20 — Sound-track looper
+
+* The recording returns to the site editor and then navigates through a KARBYTES application directory.
+
+* `SOUND_TRACK_LOOP_COUNTER_TWO` is opened.
+
+* Around 2:35, a black interface with fluorescent green borders and orange selections appears under the heading `SOUND_TRACK_LOOPER_TWO`.
+
+* The available filenames include recordings labeled as frogs croaking, coyote vocalizations, and multiple KARBYTES guitar or drum tracks.
+
+* Two files are selected:
+
+-`guitar_karbytes_13july2024.mp3`
+
+-`karbytes_guitar_16_october_2023.mp3`
+
+* At approximately 2:50, both are shown as playing, with loop counts and elapsed-time statistics.
+
+* Around 2:55, the Internet Archive displays a “Saving page” screen.
+
+* The browser alternates among blank loading pages, recursive archive imagery, and the looper’s statistics until about 3:20.
+
+This track selection explains why speech recognition repeatedly classifies much of p2 as music.
+
+### 3:20–4:45 — Onion-hosted applications and demonstrations
+
+* The Ubuntu desktop briefly reappears.
+
+* An onion page loads for several seconds.
+
+* Around 3:35, a `PI_APPROXIMATION` application is displayed with bright green, yellow, orange, and purple text panels.
+
+* Its central visual is a Monte Carlo approximation: random red and blue points are placed in a white square divided into quadrants, while counters estimate π.
+
+* A `KARBYTES_FIRST_ONION_WEB_PAGE` information page follows.
+
+* Between 4:00 and 4:20, the browser cycles through blank/loading states, black media areas, and an application directory.
+
+* Around 4:25, a forest-path video or image appears.
+
+* Around 4:40, a vivid multicolored kaleidoscopic animation fills the browser content area.
+
+### 4:50–8:09 — Falling Apples Game Two
+
+* `Falling Apples Game Two` fills most of the remaining recording.
+
+* A tall pale-blue playfield is centered on a black page.
+
+* Numerous small red circular “apples” fall from the top.
+
+* A brown horizontal catcher is moved along the bottom.
+
+* Green text reports the score, the target of 100, and elapsed time.
+
+The first observed run progresses from zero to 76 points. At approximately 5:50, a dialog reports: “Game over! Your score: 76.” The game is restarted around 6:00.
+
+The second run reaches approximately 66 points before ending shortly after 7:00. A third run starts around 7:05 and reaches the mid-60s by approximately 8:05. The file ends while the game page is still displayed, with no final return to OBS.
+
+## Bottom line
+
+The only “speech” detected in these files is unstable model-generated language produced from non-speech or highly ambiguous audio. P1 and p2 contain no credible verbal transcript at all. The genuine auditory irregularities are short encoded silences, hard application/source transitions, and synthetic game tones—not damaged media, clipping, or evidence of hidden spoken content.
