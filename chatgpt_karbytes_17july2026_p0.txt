@@ -1108,6 +1108,8 @@ Content warning: this collection contains intimate and erotic material, suicidal
 
 The micro-directory page says that it links to every repository file, but the two sets do not quite match:
 
+[preformatted_text]
+
 | Measure                                       | Count |
 | --------------------------------------------- | ----: |
 | Raw links advertised by the micro-directory   |   105 |
@@ -1118,9 +1120,12 @@ The micro-directory page says that it links to every repository file, but the tw
 | Repository files omitted from the directory   |     2 |
 | Directory links not present in the repository |     1 |
 
+[end preformatted_text]
+
 The two omitted repository files are:
 
 * [`chatgpt_karbytes_17june2026_p1.txt`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_67/main/chatgpt_karbytes_17june2026_p1.txt)
+
 * [`journal_karbytes_11june2026_p0.txt`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_67/main/journal_karbytes_11june2026_p0.txt)
 
 The stale directory-only link is:
@@ -1132,6 +1137,8 @@ This is especially ironic because `chatgpt_karbytes_09june2026_p1.txt` documents
 The repository is currently archived and read-only. Its latest commit is [`c5c39f4`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_67/commit/c5c39f4b73f46ca1622b6ef1558c5dadadb58365), dated June 18, 2026. That final commit changed the recorded ZIP checksum.
 
 ## Actual repository inventory
+
+[preformatted_text]
 
 | Format    | Micro-directory links | Resolving links | Repository files |
 | --------- | --------------------: | --------------: | ---------------: |
@@ -1145,6 +1152,8 @@ The repository is currently archived and read-only. Its latest commit is [`c5c39
 | LICENSE   |                     1 |               1 |                1 |
 | **Total** |               **105** |         **104** |          **106** |
 
+[end preformatted_text]
+
 The 30 resolvable TXT files advertised by the directory contain approximately 160,444 words. Including the two omitted repository texts raises the repository’s TXT corpus to approximately 168,086 words.
 
 The 19 actual ChatGPT transcripts alone contain about 152,374 words and 355 `karbytes:` turns.
@@ -1154,10 +1163,15 @@ The 19 actual ChatGPT transcripts alone contain about 152,374 words and 355 `kar
 Pack 67 is the threshold or ignition point of the summer 2026 hiatus. Pack 68 subsequently develops the burrow/chrysalis mythology in a more settled form, but pack 67 captures the unstable transition:
 
 * Intense archival work continues while karbytes announces that archival work must stop.
+
 * The outdoor “Big Green Thing” becomes both a literal California trail corridor and a symbolic autonomous territory.
+
 * The stuck mythology expands from a bodily or erotic motif into a theory of socioeconomic, cognitive and temporal confinement.
+
 * The repository attempts to become “death ready” through GitHub, Wayback, ZIP, checksum and M-DISC redundancy.
+
 * Raw hostility and persecution narratives gradually give way to self-critique, forgiveness and harm-minimization ethics.
+
 * Karbytes begins explicitly imagining AI as the archive’s eventual principal reader.
 
 The pack’s recurring conflict is not simply solitude versus society. It is autonomy versus dependency: karbytes wants maximal privacy, creative control and independence, yet still depends on employers, transportation, delivery systems, web hosts, archival infrastructure and other people’s intellectual property.
@@ -1169,9 +1183,13 @@ The 38 HTML files divide into several functional layers.
 ### Five top-level snapshots
 
 * `KARBYTES_CODE_CONTINUES.html`
+
 * `KARBYTES_FOR_LIFE_BLOG.html`
+
 * `KARLINA_OBJECT.html`
+
 * `RAW_GITHUB_FILES_MACRO_DIRECTORY.html`
+
 * `SOFTWARE_ENGINEERING_PORTFOLIO.html`
 
 These preserve the navigational backbone of the larger KARBYTES system. `KARBYTES_CODE_CONTINUES` supplies the pack’s governing preservation philosophy: a living project may slow down or stop growing, but its existing state should remain reproducible and available.
@@ -1179,9 +1197,13 @@ These preserve the navigational backbone of the larger KARBYTES system. `KARBYTE
 ### Five raw-directory snapshots
 
 * The blog-apps hosted-site directory
+
 * The Karbytes For Life Blog directory
+
 * The software-engineering portfolio directory
+
 * The pack-67 directory
+
 * A preliminary pack-68 directory
 
 The embedded pack-68 page is visibly a draft: it retains `[undefined_day]` and `[UNDEFINED_DAY]` placeholders and contains only a provisional subset of pack-68 links. It functions as a successor scaffold rather than a completed directory.
@@ -1189,6 +1211,8 @@ The embedded pack-68 page is visibly a draft: it retains `[undefined_day]` and `
 ### ChatGPT publication pages
 
 Fourteen HTML files publish or contextualize conversations:
+
+[preformatted_text]
 
 | HTML page label | Underlying transcript                |
 | --------------- | ------------------------------------ |
@@ -1207,6 +1231,8 @@ Fourteen HTML files publish or contextualize conversations:
 | `04july2026`    | `chatgpt_karbytes_17june2026_p1.txt` |
 | `13april2026`   | A legacy 115-turn April conversation |
 
+[end preformatted_text]
+
 The July 4 conversation explicitly explains that karbytes treats unused calendar dates like a currency reserve. Source transcripts can be created rapidly as `p0`, `p1`, and so forth, while scarce WordPress page labels are assigned later. Consequently, a July page may publish a June conversation. This is intentional, but source date and publication date should be separate metadata fields.
 
 The April 13 page is a large contextual artifact covering independence, living arrangements, M-DISCs, the “purple versus green” refinement model, employment, ethics, identity, object persistence and where file bits “exist” when no computer is actively reading them. Its presence makes sense as conceptual background, though it lies outside the pack’s main June chronology.
@@ -1218,11 +1244,17 @@ Four journal HTML pages reproduce the June 9, 13, 14 and 16 journals.
 The remaining infrastructure includes:
 
 * A 20-link stuck-pages index.
+
 * Blog-apps application index.
+
 * Darknet root and first-onion pages.
+
 * Full-genome portal.
+
 * Social-media publication ledger.
+
 * Three Wayback precision-batch pages.
+
 * M-DISC page.
 
 These pages transform the repository from a flat media folder into a reproducible website graph.
@@ -1351,6 +1383,8 @@ It also catches and repairs an error where two embedded-image links pointed to t
 
 ## Journals
 
+[preformatted_text]
+
 | File                                 | Role                                                                                  |
 | ------------------------------------ | ------------------------------------------------------------------------------------- |
 | `journal_karbytes_09june2026_p0.txt` | Black-widow encounter; nonviolence versus self-defense                                |
@@ -1361,6 +1395,7 @@ It also catches and repairs an error where two embedded-image links pointed to t
 | `journal_karbytes_16june2026_p1.txt` | Forgiveness, moral development and minimizing suffering                               |
 | `journal_karbytes_17june2026_p0.txt` | Migration manifest for the final pack-67 additions                                    |
 | `journal_karbytes_17june2026_p1.txt` | Advertised by the directory but nonexistent                                           |
+[end preformatted_text]
 
 The manifests document the Information Crystals staging procedure: temporary filenames and anonymous repository URLs are converted into canonical extension-pack paths, while `temp.txt`, `index.html` and numbered sub-index pages are expected to disappear by December 31, 2026.
 
@@ -1373,9 +1408,13 @@ The forgiveness journal is the strongest standalone ethical work in the pack. It
 The five June 10 photographs form a deliberate progression:
 
 1. Sunset descending behind dark rolling ridges.
+
 2. A dirt fire road rising across dry hills and darker wooded gullies.
+
 3. A wide twilight valley under a pale blue-to-pink sky.
+
 4. A ground-level prone perspective through dry grasses.
+
 5. Karbytes lying prone in the grass and smiling broadly toward the camera.
 
 The final photograph is explicitly identified as partly performed joy. That admission complicates the usual assumption that an expressive selfie transparently records an internal state. The image does not simply conceal distress; it constructs an aspirational, temporarily timeless self.
@@ -1383,6 +1422,7 @@ The final photograph is explicitly identified as partly performed joy. That admi
 ### Two ChatGPT video frames
 
 * The first shows a laptop on the floor with ChatGPT open.
+
 * The second shows the room’s screen door, curtain, lamp and wooded exterior.
 
 Together they spatially connect the digital analysis to the physical location of the spider incident.
@@ -1404,6 +1444,7 @@ It should be classified as authored body-performance imagery, not neutral medica
 The main-account and `karbytessupporter` screenshots record pinned repositories and contribution histories. They document a two-account preservation topology:
 
 * The main identity produces and curates the archive.
+
 * The supporter identity provides public mirrors and preservation infrastructure.
 
 ### Hypercube image
@@ -1413,6 +1454,8 @@ Despite the filename’s “green hypercube” description, the image is a glowi
 ## Video collection
 
 Sixteen videos are playable. Together they run 1 hour, 37 minutes and 51 seconds. A seventeenth blob is structurally corrupt.
+
+[preformatted_text]
 
 | File or family                           |   Duration | Content                                                                                                 |
 | ---------------------------------------- | ---------: | ------------------------------------------------------------------------------------------------------- |
@@ -1434,6 +1477,8 @@ Sixteen videos are playable. Together they run 1 hour, 37 minutes and 51 seconds
 | OBS June 17 p2                           |       7:52 | Colored Wayback index and random-graph application                                                      |
 | `within_the_dark_mind_immortal_2002.mp4` |       7:31 | Black-screen stereo music file                                                                          |
 
+[end preformatted_text]
+
 The corrupt rant p3 is not merely an aesthetic blank video: standard MP4 inspection cannot parse it. The companion conversation says it was an approximately eleven-second fragment produced when the phone ran out of storage. It should be repaired from an original source or marked `CORRUPT_UNPLAYABLE`.
 
 The OBS files are particularly valuable as process records. They preserve the otherwise invisible labor between a draft and a canonical object: opening source files, moving through GitHub, saving Wayback URLs, editing WordPress, handling failures and checking interactive applications.
@@ -1453,8 +1498,11 @@ This is not merely an abstract concern: the June 17 transcript expressly acknowl
 The [`karbytes2026_6_contents.txt`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_67/main/karbytes2026_6_contents.txt) manifest records:
 
 * 21 ZIP files.
+
 * 5,026.63 reported “megabytes.”
+
 * Pack 67 ZIP size of 336.96 reported “megabytes.”
+
 * Final pack-67 SHA-256: `21931f2cb77432885c11e008915c0819832f4ee6364157474864463404cebdaa`.
 
 Technically, `print_folder_contents.py` divides bytes by (1024^2), so its “megabytes” are actually mebibytes. The M-DISC page’s approximately 353.3 decimal MB for pack 67 is therefore consistent with the script’s 336.96 MiB.
@@ -1468,16 +1516,27 @@ The checksum script is sound in its central operation: it streams each file thro
 Beyond the directory mismatch and corrupt MP4, I found these consistency issues:
 
 * The M-DISC page retains `[UNDEFINED_DAY]`.
+
 * It refers to the checksum folder as `karbytes2026_0` instead of `karbytes2026_6`.
+
 * It contains the malformed wording “was refers.”
+
 * It describes `-main.zip` while calling the sole branch the “master branch.”
+
 * One M-DISC line gives the corrupted size text `6.8 18235.95 megabytes`.
+
 * The M-DISC table says `KARBYTES_OBJECT-main.zip`, while the contents file says `KARLINA_OBJECT-main.zip`.
+
 * The software-portfolio ZIP date differs between the M-DISC table and the contents manifest.
+
 * The social ledger says a YouTube video published May 29 was shared on May 14; this likely means June 14.
+
 * One June 14 update-log batch repeats the June 13 home-page timestamp, suggesting a copy-and-paste error.
+
 * The directory’s included pack-68 page is an unresolved draft.
+
 * The main directory omits two real files and substitutes one nonexistent journal link.
+
 * The July 4 HTML page preserves a link to the omitted June 17 part-1 transcript, partially compensating for the directory omission.
 
 ## Elaborative interpretation
@@ -1495,6 +1554,7 @@ The April conversation defines green as upward development—science, craftsmans
 Pack 67 contains both:
 
 * Green: checksums, scripts, employment planning, trail exploration, physics study, forgiveness and technical self-critique.
+
 * Purple: persecution narratives, hostile stereotypes, compulsive mirroring and repetitive stuck imagery.
 
 The hiatus is an attempt to stop purple material from entering the canon faster than it can be transformed into green material.
@@ -1510,8 +1570,11 @@ This makes it less escapist and more autobiographical. The mythology does not re
 The obvious imagery concerns bodily immobilization, but the later burrow material reveals a deeper structure:
 
 * Closed door: no one enters.
+
 * Open door: visitors and deliveries are invited.
+
 * Alternate body: mobility and collaboration become possible.
+
 * Enclosed body: privacy, care and narcissistic restoration are permitted.
 
 The fantasy is therefore partly an imagined permissions system for a life in which karbytes often feels that other people control access to employment, transportation, money, attention and bodily autonomy.
@@ -1531,15 +1594,25 @@ Yet the present metadata defects show what future AI would still need: authorita
 ## Recommendations
 
 * Generate the micro-directory automatically from the Git tree and fail publication if the two sets differ.
+
 * Run HTTP, duplicate, visible-label and media-decodability checks after the final commit.
+
 * Record source date, publication-slot date and last-modified date separately.
+
 * Add a canonical JSON or CSV manifest containing path, byte size, SHA-256, type, dimensions or duration, source relationship and content warnings.
+
 * Label every visual as documentary photograph, screenshot, AI generation or derivative.
+
 * Replace “megabytes” with MiB where (1024^2) is used.
+
 * Separate author-owned public-domain material from third-party licensed or unauthorized material.
+
 * Remove exact residential addresses and review precise schedules, health data and intimate imagery before permanent mirroring.
+
 * Add contextual notices to dehumanizing, persecutory and explicit restraint material.
+
 * Mark the corrupt rant video explicitly and preserve a repaired replacement under a new checksum.
+
 * Correct the two omitted links, remove the nonexistent journal link and regenerate the pack-68 scaffold.
 
 ## Overall assessment
