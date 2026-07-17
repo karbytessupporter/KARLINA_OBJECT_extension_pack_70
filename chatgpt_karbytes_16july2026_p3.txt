@@ -749,3 +749,9 @@ The session appears exploratory and operational rather than scripted. Pages are 
 [end preformatted_text]
 
 In one sentence: **the video is a continuous, self-referential archival browsing session in which a July 16 OBS recording traverses WordPress, GitHub, Bluesky, the Wayback Machine, local files, and multiple older recordings, causing the KARBYTES archive to appear recursively inside its own documentation.**
+
+karbytes:
+
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/a_cup_of_green_tea_16july2026_p1.mp4]
+
+Here is the next video upload. Describe any hallicanted speech detection or other "glitchy" auditory artifacts which you detected while analyzing any of these videos.
