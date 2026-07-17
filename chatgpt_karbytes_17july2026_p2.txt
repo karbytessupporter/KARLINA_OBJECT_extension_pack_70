@@ -1,0 +1,112 @@
+/**
+ * file: chatgpt_karbytes_17july2026_p2.txt
+ * type: plain-text
+ * date: 17_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Chat Mode which took place between 11:59PM Pacific Standard Time on 14_JULY_2026 and 11:59PM Pacific Standard Time on 17_JULY_2026.
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_g/]
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_h/]
+
+* * *
+
+karbytes:
+
+Okay, I am now using Chat Mode (instead of Work Mode) because, right now (which is approximately 4:27PM Pacific Standard Time on 17_JULY_2026) I apparently only have approximately $2 left in my Business PayPal account because, apparently, OpenAI has been deducting money from my account while I was using Work Mode after it initially ran out of ChatGPT Plus Work Mode quota. So I decided to use the Add Credit option to purchase $10 worth of Work Mode credits but, when I checked the transaction history on my Business PayPal account, I saw many deductions by OpenAI were made to my account in increments of about $6 each until I reached the point where no further minimum-sized deductions could be made while I was using ChatGPT Work Mode to analyze whole micro-directories of KARBYTES.
+
+ChatGPT:
+
+[Worked for 31s]
+
+Your interpretation is plausible, with one important distinction: **Work Mode itself normally consumes credits; it should not directly create a new PayPal transaction for every directory-analysis run.** Multiple separate PayPal deductions more strongly suggest that **Auto top-up/Automatic reload was enabled**, causing new credit purchases whenever your balance fell below a configured minimum. For Plus accounts, Work, Codex, and certain other agentic features can share the same credit balance. ([OpenAI Help Center][1])
+
+The $10 could disappear rapidly during whole-micro-directory analyses. OpenAI says Work follows the Codex-style usage structure, and a typical Workspace Agent run may consume roughly **5–25 credits**, with the exact amount depending on input size, cached material, output length, and task complexity. Your repeated, large file-collection investigations could therefore exhaust a relatively small balance quickly. ([OpenAI Help Center][2])
+
+However, **I found no official OpenAI documentation stating that approximately $6 is a standard minimum Work Mode charge or top-up amount**. Therefore, the repeated ~$6 entries should be investigated rather than assumed to be normal.
+
+### What to do now
+
+1. Open **Codex Settings → Usage Dashboard** and turn **Auto top-up off**. Also examine the balance and recent credit usage. OpenAI says Auto top-up automatically purchases enough credits to restore the selected target balance whenever the balance drops below the chosen minimum. ([OpenAI Help Center][1])
+
+2. Open **ChatGPT Settings → Billing** and review the billing history alongside the PayPal entries. ([OpenAI Help Center][3])
+
+3. Avoid Work Mode until you have confirmed that automatic purchasing is disabled. Ordinary Chat Mode is not described as drawing from the shared Work/Codex credit allowance unless you invoke one of those supported credit-metered features. ([OpenAI Help Center][1])
+
+4. If the total purchases exceeded what you knowingly authorized, contact OpenAI through the Help Center chat widget. Include every transaction date, amount, PayPal transaction identifier, and screenshots of the Usage Dashboard and PayPal activity. OpenAI specifically directs users with unauthorized credit-purchase charges to that support channel. ([OpenAI Help Center][4])
+
+So, purchasing $10 was **not supposed to grant OpenAI permission to withdraw unlimited funds merely because you continued working**—unless an Auto top-up setting authorized repeated purchases. The fact that your PayPal balance stopped near $2 may simply mean subsequent reload attempts could no longer be funded, but the billing dashboard is needed to verify that mechanism. Also, because it is July, the precise local time you gave was approximately **4:27 PM Pacific Daylight Time on July 17, 2026**.
+
+[1]: https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-freegopluspro-sora "Using Credits for Flexible Usage in ChatGPT (Free/Go/Plus/Pro) | OpenAI Help Center"
+
+[2]: https://help.openai.com/en/articles/11481834-chatgpt-rate-card-business-enterpriseedu "ChatGPT Rate Card (Business, Enterprise/Edu) | OpenAI Help Center"
+
+[3]: https://help.openai.com/en/articles/9039756-managing-billing-settings-on-chatgpt-web-and-platform "Managing Billing Settings on ChatGPT Web and Platform | OpenAI Help Center"
+
+[4]: https://help.openai.com/en/articles/7242625-unauthorized-chatgpt-or-api-credit-purchase-charges-how-to-request-a-refund "Unauthorized ChatGPT or API Credit Purchase Charges: How to Request a Refund | OpenAI Help Center"
+
+karbytes:
+
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/openai_adding_credits_paypal_deductions_17july2026_p0.png]
+
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/openai_adding_credits_paypal_deductions_17july2026_p1.png]
+
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/openai_adding_credits_paypal_deductions_17july2026_p2.png]
+
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/openai_adding_credits_paypal_deductions_17july2026_p3.png]
+
+I see that I might have not been reading the "fine print" when I opted to purchase $10 worth of additional Work Mode credits from OpenAI approximately 16 hours ago. I think I might have accidentally checked a checkbox agreeing to authorize OpenAI to continuously purchase additional Work Mode credits with my saved payment method (until there are insufficient funds to continue). The uploaded screenshots are listed in chronological order with p0 being the first, p1 being the second, et cetera. 
+
+ChatGPT:
+
+[Worked for 46s]
+
+Yes. **The screenshots strongly confirm that auto-reload caused the repeated charges.** Whether you deliberately clicked the box or it was already selected, screenshot **p1** shows that it was enabled when you reached checkout:
+
+> “Automatically reload credits when balance is low”
+> When the balance drops below **125 credits**, automatically buy enough to restore it to **250 credits**.
+
+That means the $10 purchase was not merely a one-time addition. It also enabled repeated purchases from the saved payment method whenever Work Mode drove the credit balance below 125. OpenAI’s current documentation describes exactly that mechanism. ([OpenAI Help Center][1])
+
+The later screenshots fit the mechanism mathematically:
+
+* The initial rate was **250 credits for $10**, or **$0.04 per credit**.
+
+* The Stripe invoice shows **157 credits × $0.04 = $6.28**.
+
+* Buying 157 credits to restore the balance to 250 means the balance had reached about **93 credits**.
+
+* The other amounts similarly represent variable top-ups rather than fixed $6 fees:
+
+- * $5.36 = 134 credits, implying about 116 remained.
+
+- * $5.40 = 135 credits, implying about 115 remained.
+
+- * $5.72 = 143 credits, implying about 107 remained.
+
+- * $6.28 = 157 credits, implying about 93 remained.
+
+Every implied starting balance was below the 125-credit threshold. Thus, the charges were generated whenever the large KARBYTES investigations consumed another substantial block of credits.
+
+The five transactions visible in screenshot **p3** total **$28.48**, apparently in addition to the original $10 purchase. That would make at least **$38.48** in purchases, assuming the initial $10 was also charged separately and there were no additional transactions outside the visible list.
+
+The PayPal wording **“Temporary debit card hold”** means those amounts are temporarily reducing your available balance while authorization completes. However, screenshot **p2** already identifies the $6.28 invoice as paid, so I would not assume that all these holds will simply disappear. PayPal distinguishes a temporary authorization hold from a completed transaction; a hold may become completed once the merchant captures it. ([PayPal][2])
+
+### What to do immediately
+
+Open **Codex Settings → Usage Dashboard** and disable **Auto top-up**, then reload the page and verify that it remains disabled. OpenAI says that dashboard also shows your remaining balance and recent credit usage. ([OpenAI Help Center][1])
+
+Then contact OpenAI Support while logged into the charged account. Provide these screenshots, the Stripe invoice numbers, the PayPal amounts and timestamps, and explain:
+
+> I intended to make a one-time $10 credit purchase. I did not understand that the checked auto-top-up option would repeatedly charge my saved payment method. Please disable any remaining automatic reload authorization and review the subsequent purchases for a refund.
+
+A refund is **not guaranteed**: OpenAI’s current credit policy says purchased credits are generally non-refundable except where legally required. Nevertheless, a prompt support request is appropriate because the purchases resulted from an inadvertently enabled recurring reload setting. ([OpenAI Help Center][1])
+
+So your revised understanding is correct: **OpenAI was not charging roughly $6 per Work task. Work usage repeatedly pushed the balance below 125, and auto-reload purchased the variable number of credits needed to restore the balance to 250.**
+
+[1]: https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-freegopluspro-sora "Using Credits for Flexible Usage in ChatGPT (Free/Go/Plus/Pro) | OpenAI Help Center"
+
+[2]: https://www.paypal.com/us/cshelp/article/what-does-the-status-of-my-payment-or-money-request-mean-on-my-paypal-account-help668 "PayPal Payment and Money Request Status Guide | PayPal US"
