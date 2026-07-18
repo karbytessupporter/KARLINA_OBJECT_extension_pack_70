@@ -1,0 +1,32 @@
+/**
+ * file: karbytes_thinking_17july2026_p0_[video_transcript].txt
+ * type: plain-text
+ * date: 17_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_04_october_2024/
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/abridged_keyboard_musical_instrument/
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/onion_web_page_availability_logger/
+
+* * *
+
+(0:02) Alright, I don't know if you can hear me because there's a bunch of noise players playing, (0:09) and the fan, which is an industrial fan, is on. (0:13) So, I decided I would try my best to record what I think, while I have the chance. (0:23) And right now, it is the 17th of July, 2026.
+(0:34) And what I'm doing is, again, getting a bit lodged in a data bottleneck, (0:44) and in a logistical slash processing bottleneck of my own making, really. (0:53) Some of it was unintentional at first, but eventually I see how it all fits the way I would prefer so far. (1:02) Anyway, I was thinking about something earlier that I wanted to write down, and that is, (1:10) when I was initially making a dark web page, I was in Silicon Valley, traveling around by bicycle, (1:20) with my backpack, sleeping outside at some random, seemingly abandoned warehouse, (1:28) kind of near Hangar 1, along the border of Mountain View and Sunnyvale.
+(1:35) I was down there as part of my extended, multi-week tour of Silicon Valley (1:42) and the greater baylands of the south part of the San Francisco Bay area, near the shoreline of California. (1:53) And that was in 2024. (1:56) I had some extreme events happen, and one of them was getting hit by a car while on bicycle, (2:01) because I was in a bit of a rush to get from the shopping center I was at in Sunnyvale, (2:09) back to the trails near Google Cloud Campus in Sunnyvale.
+(2:16) There's some nice bicycle paths that connect all these trails around there. (2:20) So I was in a rush to go there after having eaten lots of delicious food from the Whole Foods at that area. (2:29) And there's also a nice coffee shop down there called Phil's Coffee, (2:35) and I really got my fill at that place, setting up a lot of foundational parts of Carbites in that area, (2:45) using that infrastructure, because I really wanted to make Silicon Valley part of Carbites, (2:52) part of its essential, or origination, I should say, its originating aspects.
+(3:00) I do believe a lot of that is on the first disk already, which would make the most sense. (3:07) It's kind of stuff that's a bit basic. (3:10) Everything following that disk is more, it's really nice to have, (3:15) though trying to put my entire genome in the first disk seems sensible.
+(3:20) It's just because of the data size. (3:22) The reason why I didn't put it in the first disk is because a genome takes up approximately 16 gigabytes. (3:32) A human genome, that is.
+(3:34) So I had my entire genome sequenced, and that's now available for download. (3:40) It has public domain intellectual property through my website. (3:44) Anyway, back to what I'm trying to say about the dark web.
+(3:46) Well, it was suggested to me by Psychotronic Harassment that I set up some kind of dark web server. (3:54) So initially I used my traveling backpack as that server, because I was just only getting started with all that. (4:03) So I learned through ChatGP and documentation I found on the web how to set up a simple dark website.
+(4:13) So that's what I did with my first dark web page. (4:17) And after that, I eventually set up a more elaborate website on the dark web, (4:24) which had a different onion address, just so I can simulate or actually create a literal instance of the dark web (4:33) that I had total control over, at least that part, the backend. (4:39) So my websites on the dark web would just be confined to my own bubble, (4:47) if it weren't for the fact that there were volunteers and other infrastructure (4:54) enabling those web pages to be accessed through the Tor network.
+(5:01) So all that came together such that now I have a corner of the World Wide Web in my room, (5:10) because I have a server there serving two onion web pages. (5:15) And those are for posting my own content. (5:20) And ultimately, pointing back to Carbites, which is basically relegated to the surface web, (5:27) and the most important parts of it are the parts that are served from github.com as raw files, which are hosted there.
+(5:38) And what the wordpress.com websites do is provide an interface, a user interface, (5:46) to access the rest of the Carbites files. (5:50) So the stuff that's served on the dark web, I would say, is kind of just an implementation that's local to me, (5:59) that might not always be available. (6:02) Eventually, someone might take the address and use it for their own content.
+(6:06) At that point, it's no longer part of Carbites. (6:09) But what is still part of Carbites is the source code to those dark web pages, (6:16) which is available on the light web via Carbites. (6:20) So by building my first dark web page down in Sunnyvale by myself on a bicycle, (6:32) basically while traveling as a semi-hobo, (6:37) I got to have experience of being in Silicon Valley (6:41) and pretending to be down there as an intern in my own private internship, (6:47) so I could build different apps.
+(6:48) So I did that. (6:49) I also made the abridged keyboard application, largely with ChatGP's help, (6:57) which is one of the most impressive applications I have. (7:00) And eventually, I brought it back to Castor Valley, (7:03) and I continued to expand my software development, (7:09) not very quickly, but at a pace I think is reasonable for my goals, (7:15) because the focus really is on making the archive stable.
+(7:23) So I noticed that when ChatGP analyzed supposedly closed micro-directories, (7:31) it noticed some errors. (7:33) I decided I'm just going to leave those errors as is, (7:36) so I don't create extra work for myself to do. (7:40) I already have enough processes open and not complete as is.
+(7:44) This video is one of them. (7:46) I'm going to transcribe it. (7:49) I'm also going to include the original video, (7:52) so people can get a sense of what the bubble feels like, (7:56) or looks like, from my perspective.
+(7:59) It just makes for a richer experience, an end-user experience, (8:04) of going through carbites and seeing what there is to be found there. 
