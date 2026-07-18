@@ -2158,6 +2158,7 @@ The repository-level Unlicense also cannot place material owned by other people 
 3. Publish a machine-readable manifest containing filename, byte size, SHA-256, MIME type, acquisition/source URL, creator, license, and privacy classification.
 
 4. Verify those hashes before and after every disc burn and store a signed copy both on and off each disc.
+
 5. Correct the Pack 41 link, number-diagram link, duplicate portfolio number, and the 49 visible-label/target mismatches found across four index files.
 
 6. Strip exact GPS metadata from public media derivatives.
