@@ -42,9 +42,7 @@ And what the WordPress dot Com websites do is provide an interface, a user inter
 
 At that point, it's no longer part of KARBYTES. But what [it] is [is] still part of KARBYTES as the source code [HTML files] to those dark web pages, which is available on the light web via KARBYTES. So by building my first dark web page down in Sunnyvale by myself [while trek camping] on a bicycle, basically while traveling as a semi-hobo, I got to have experience of being in Silicon Valley and "pretending" to be down there as an intern in my own private internship, so I could build different apps.
 
-So I did that. I also made the abridged keyboard application [officially named ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT], largely with ChatGPT's help, which is one of the most impressive [KARBYTES 
-
-SOFTWARE_ENGINEERING_PORTFOLIO] applications I have. And eventually, I brought it back to Castro Valley [California], and I continued to expand my software development; not very quickly, but at a pace I think is reasonable for my goals (because the focus really is on making the archive stable).
+So I did that. I also made the abridged keyboard application [officially named ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT], largely with ChatGPT's help, which is one of the most impressive [KARBYTES SOFTWARE_ENGINEERING_PORTFOLIO] applications I have. And eventually, I brought it back to Castro Valley [California], and I continued to expand my software development; not very quickly, but at a pace I think is reasonable for my goals (because the focus really is on making the archive stable).
 
 So I noticed that when ChatGPT analyzed supposedly closed [KARBYTES] micro-directories, it noticed some errors. I decided I'm just going to leave those errors as is, so I don't create extra work for myself to do. I already have enough processes open and not complete as is.
 
