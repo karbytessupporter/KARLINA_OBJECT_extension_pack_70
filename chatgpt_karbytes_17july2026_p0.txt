@@ -1823,7 +1823,9 @@ The eleven commercial tracks are the collection’s most serious rights problem.
 The three Python programs are readable, small, and functional:
 
 * `print_folder_contents.py` recursively lists names and sizes.
+
 * `print_folder_checksums.py` produces SHA-256 values using sensible 4 MiB chunks.
+
 * `invert_image_rgb.py` performs the demonstrated pixel inversion.
 
 Their common shortcomings are hard-coded paths, nondeterministic `os.walk` ordering, direct output overwriting, no command-line arguments, no dry-run or atomic-write behavior, and little exception handling. The size program divides by (1024^2), so it reports MiB while labeling the result “megabytes.” The inversion program processes individual pixels in Python, discards alpha and some metadata, and would be simpler and faster using a vectorized Pillow operation.
