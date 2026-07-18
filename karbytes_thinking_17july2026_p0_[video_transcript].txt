@@ -30,6 +30,8 @@ It's just because of the data size. The reason why I didn't put it in the first 
 
 So I had my entire genome sequenced, and that's now available for download. It has public domain intellectual property through my website. Anyway, back to what I'm trying to say about the dark web.
 
+[// gonna go try working on this at Horsey Hill...now I'm at Horsey Hill working on normalizing this audio transcription to KARBYTES semantic/syntax standards.]
+
 Well, it was suggested to me by Psychotronic Harassment that I set up some kind of dark web server. So initially I used my [the laptop computer in] traveling backpack as that [ark web] server, because I was just only getting started with all that. So I learned through ChatGPT and documentation I found on the web how to set up a simple dark website.
 
 So that's what I did with my first dark web page. And after that, I eventually set up a more elaborate website on the dark web, which had a different .onion address, just so I can simulate or actually create a literal instance of the dark web that I had total control over, at least that part, the backend. So my websites on the dark web would just be confined to my own bubble, if it weren't for the fact that there were volunteers and other infrastructure enabling those web pages to be accessed through the Tor network.
