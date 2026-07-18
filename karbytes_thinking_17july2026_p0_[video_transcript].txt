@@ -1,7 +1,7 @@
 /**
  * file: karbytes_thinking_17july2026_p0_[video_transcript].txt
  * type: plain-text
- * date: 17_JULY_2026
+ * date: 18_JULY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -14,38 +14,44 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/onion_web_page_avai
 
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/
 
+relevant_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_thinking_17july2026_p0.mp4
+
+relevant_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_in_the_big_green_thing_[horsey_hill]_17july2026_p3.mp4
+
+relevant_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_in_the_burrow_17july2026_p0.mp4
+
 * * *
 
-Alright, I don't know if you can hear me because there's a bunch of noise players playing, and the fan, which is an industrial fan, is on. So, I decided I would try my best to record what I think, while I have the chance. And right now, it is the 17th of July, 2026.
+Alright, I don’t know if you can hear me because there’s a bunch of noise players playing, and the fan, which is an industrial fan, is on. So, I decided I would try my best to record what I think, while I have the chance. And right now, it is the 17th of July, 2026.
 
-And what I'm doing is, again, getting a bit lodged in a data bottleneck, and in a logistical slash processing bottleneck of my own making, really. Some of it was unintentional at first, but eventually I see how it all fits the way I would prefer so far. Anyway, I was thinking about something earlier that I wanted to write down, and that is, when I was initially making a dark web page, I was in Silicon Valley, traveling around by bicycle, with my backpack, sleeping outside at some random, seemingly abandoned warehouse, kind of near Hangar 1, along the border of Mountain View and Sunnyvale [in northern California of the United States of America].
+And what I’m doing is, again, getting a bit lodged in a data bottleneck, and in a logistical slash processing bottleneck of my own making, really. Some of it was unintentional at first, but eventually I see how it all fits the way I would prefer so far. Anyway, I was thinking about something earlier that I wanted to write down, and that is, when I was initially making a dark web page, I was in Silicon Valley, traveling around by bicycle, with my backpack, sleeping outside at some random, seemingly abandoned warehouse, kind of near Hangar 1, along the border of Mountain View and Sunnyvale [in northern California of the United States of America].
 
-I was down there as part of my extended, multi-week tour of Silicon Valley and the greater baylands of the south part of the San Francisco Bay area (near the [South Bay] shoreline) of California. And that was in 2024. I had some extreme events happen, and one of them was getting hit by a car while on bicycle, because I was in a bit of a rush to get from the shopping center I was at in Sunnyvale, back to the trails near Google Cloud Campus in Sunnyvale.
+I was down there as part of my extended, multi-week tour of Silicon Valley and the greater Baylands of the south part of the San Francisco Bay area (near the [South Bay] shoreline) of California. And that was in 2024. I had some extreme events happen, and one of them was getting hit by a car while on bicycle, because I was in a bit of a rush to get from the shopping center I was at in Sunnyvale, back to the trails near Google Cloud Campus in Sunnyvale.
 
-There's some nice bicycle paths that connect all these trails around there. So I was in a rush to go there after having eaten lots of delicious food from the Whole Foods at that area. And there's also a nice coffee shop down there called Phil's Coffee, and I really got my fill at that place, setting up a lot of foundational parts of KARBYTES in that area, using that infrastructure, because I really wanted to make Silicon Valley part of KARBYTES, part of its essential, or origination, I should say, its originating aspects.
+There’s some nice bicycle paths that connect all these trails around there. So I was in a rush to go there after having eaten lots of delicious food from the Whole Foods at that area. And there’s also a nice coffee shop down there called Phil’s Coffee, and I really got my fill at that place, setting up a lot of foundational parts of KARBYTES in that area, using that infrastructure, because I really wanted to make Silicon Valley part of KARBYTES, part of its essential, or origination, I should say, its originating aspects.
 
-I do believe a lot of that is on the first disk already, which would make the most sense. It's kind of stuff that's a bit basic. Everything following that disk is more, it's really nice to have, though trying to put my entire genome in the first disk seems sensible.
+I do believe a lot of that is on the first disk already, which would make the most sense. It’s kind of stuff that’s a bit basic. Everything following that disk is more, it’s really nice to have, though trying to put my entire genome in the first disk seems sensible.
 
-It's just because of the data size. The reason why I didn't put it in the first disk is because a genome takes up approximately 16 gigabytes. A human genome, that is.
+It’s just because of the data size. The reason why I didn’t put it in the first disk is because a genome takes up approximately 16 gigabytes. A human genome, that is.
 
-So I had my entire genome sequenced, and that's now available for download. It has public domain intellectual property through my website. Anyway, back to what I'm trying to say about the dark web.
+So I had my entire genome sequenced, and that’s now available for download. It has public domain intellectual property through my website. Anyway, back to what I’m trying to say about the dark web.
 
-[// gonna go try working on this at Horsey Hill...now I'm at Horsey Hill working on normalizing this audio transcription to KARBYTES semantic/syntax standards.]
+[// gonna go try working on this at Horsey Hill…now I’m at Horsey Hill working on normalizing this audio transcription to KARBYTES semantic/syntax standards.]
 
 Well, it was suggested to me by Psychotronic Harassment that I set up some kind of dark web server. So initially I used my [the laptop computer in] traveling backpack as that [ark web] server, because I was just only getting started with all that. So I learned through ChatGPT and documentation I found on the web how to set up a simple dark website.
 
-So that's what I did with my first dark web page. And after that, I eventually set up a more elaborate website on the dark web, which had a different .onion address, just so I can simulate or actually create a literal instance of the dark web that I had total control over, at least that part, the backend. So my websites on the dark web would just be confined to my own bubble, if it weren't for the fact that there were volunteers and other infrastructure enabling those web pages to be accessed through the Tor network.
+So that’s what I did with my first dark web page. And after that, I eventually set up a more elaborate website on the dark web, which had a different .onion address, just so I can simulate or actually create a literal instance of the dark web that I had total control over, at least that part, the backend. So my websites on the dark web would just be confined to my own bubble, if it weren’t for the fact that there were volunteers and other infrastructure enabling those web pages to be accessed through the Tor network.
 
 So all that came together such that now I have a corner of the World Wide Web in my room, because I have a [dark web] server there serving two .onion web pages. And those are for posting my own [KARBYTES] content. And ultimately, pointing back to KARBYTES, which is basically relegated to the surface web, and the most important parts of it are the parts that are served from GitHub dot Com as raw files which are hosted there.
 
-And what the WordPress dot Com websites do is provide an interface, a user interface, to access the rest of the KARBYTES files. So the [KARBYTES] stuff that's served on the dark web, I would say, is kind of just an implementation that's local to me, that might not always be available. Eventually, someone might take the [KARBYTES .onion] address[es] and use [either one of those two .onion addesses] for their own [dark web] content.
+And what the WordPress dot Com websites do is provide an interface, a user interface, to access the rest of the KARBYTES files. So the [KARBYTES] stuff that’s served on the dark web, I would say, is kind of just an implementation that’s local to me, that might not always be available. Eventually, someone might take the [KARBYTES .onion] address[es] and use [either one of those two .onion addesses] for their own [dark web] content.
 
-At that point, it's no longer part of KARBYTES. But what [it] is [is] still part of KARBYTES as the source code [HTML files] to those dark web pages, which is available on the light web via KARBYTES. So by building my first dark web page down in Sunnyvale by myself [while trek camping] on a bicycle, basically while traveling as a semi-hobo, I got to have experience of being in Silicon Valley and "pretending" to be down there as an intern in my own private internship, so I could build different apps.
+At that point, it’s no longer part of KARBYTES. But what [it] is [is] still part of KARBYTES as the source code [HTML files] to those dark web pages, which is available on the light web via KARBYTES. So by building my first dark web page down in Sunnyvale by myself [while trek camping] on a bicycle, basically while traveling as a semi-hobo, I got to have experience of being in Silicon Valley and “pretending” to be down there as an intern in my own private internship, so I could build different apps.
 
-So I did that. I also made the abridged keyboard application [officially named ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT], largely with ChatGPT's help, which is one of the most impressive [KARBYTES SOFTWARE_ENGINEERING_PORTFOLIO] applications I have. And eventually, I brought it back to Castro Valley [California], and I continued to expand my software development; not very quickly, but at a pace I think is reasonable for my goals (because the focus really is on making the archive stable).
+So I did that. I also made the abridged keyboard application [officially named ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT], largely with ChatGPT’s help, which is one of the most impressive [KARBYTES SOFTWARE_ENGINEERING_PORTFOLIO] applications I have. And eventually, I brought it back to Castro Valley [California], and I continued to expand my software development; not very quickly, but at a pace I think is reasonable for my goals (because the focus really is on making the archive stable).
 
-So I noticed that when ChatGPT analyzed supposedly closed [KARBYTES] micro-directories, it noticed some errors. I decided I'm just going to leave those errors as is, so I don't create extra work for myself to do. I already have enough processes open and not complete as is.
+So I noticed that when ChatGPT analyzed supposedly closed [KARBYTES] micro-directories, it noticed some errors. I decided I’m just going to leave those errors as is, so I don’t create extra work for myself to do. I already have enough processes open and not complete as is.
 
-This video is one of them. I'm going to transcribe it. I'm also going to include the original video, so people can get a sense of what the bubble feels like, or looks like, from my perspective.
+This video is one of them. I’m going to transcribe it. I’m also going to include the original video, so people can get a sense of what the bubble feels like, or looks like, from my perspective.
 
-It just makes for a richer experience, an end-user experience, of going through KARBYTES and seeing what there is to be found there. 
+It just makes for a richer experience, an end-user experience, of going through KARBYTES and seeing what there is to be found there.
