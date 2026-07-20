@@ -12,6 +12,11 @@ The following is a prompt which karbytes used with ChatGPT 5.6 Sol Work Mode wit
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_j/]
 
+The images which were uploaded (in the conversation encompassed by the web page named chatgpt_karbytes_01august2026_j) are as follows:
+
+[relevant_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/bluesky_karbytes_19july2026_p0.png]
+
+[relevant_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/minds_karbytes_19july2026_p0.png]
 
 * * *
 
