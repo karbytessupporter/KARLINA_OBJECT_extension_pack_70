@@ -3879,3 +3879,8 @@ The part I regard as most robust is not an independently floating object called 
 
 For KARBYTES, that means a mathematical node can retain its complete essential structure across many substrates. But if every physical instance, interpreter and possible implementation vanished, I am not confident that saying the node “still exists” would describe a fact rather than express a Platonist convention.
 
+karbytes:
+
+Well, we already know that something other than purely abstract objects exist (and what we know for sure exists is what we render is phenomena distinguishable from what appears to be pure noumena (and/or pure nothingness). So, from our perspectives (which seem necessarily tied to and causally dependent on physical processes inside of computational matter), numbers do not seem to exist without brains. Maybe brains and numbers always exist at the level of reality as a whole.
+
+ChatGPT:
