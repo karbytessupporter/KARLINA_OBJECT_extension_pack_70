@@ -8,6 +8,14 @@
 
 The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 20_JULY_2026 and 11:59PM Pacific Standard Time on 21_JULY_2026.
 
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05july2026/]
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_21june2026/]
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_05july2026/]
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_18july2026/]
+
 * * *
 
 karbytes:
@@ -1529,5 +1537,4 @@ The Summer Hiatus is a fragile local prototype of that cosmic game. Karbytes bri
 
 karbytes:
 
-Now I'd like to take you through a video tour of each of the videos listed in the web page named
-journal_karbytes_20july2026 in the order those items are listed by steps in the implied story-telling arc "chronology". Pay close attention to each of those video's visual and audio components and write an elaborate description of each video about what you see, hear, and think (in an open-ended, maximally creative manner). Some of those videos are speechless, no-visible-humans pedestrian traversal though The Big Green Thing. Some of those videos are Hiatus music videos compiled from simultaneously playing media files on karbytes' Ubuntu laptop.
+Now I'd like to take you through a video tour of each of the videos listed in the web page named journal_karbytes_20july2026 in the order those items are listed by steps in the implied story-telling arc "chronology". Pay close attention to each of those video's visual and audio components and write an elaborate description of each video about what you see, hear, and think (in an open-ended, maximally creative manner). Some of those videos are speechless, no-visible-humans pedestrian traversal though The Big Green Thing. Some of those videos are Hiatus music videos compiled from simultaneously playing media files on karbytes' Ubuntu laptop.
