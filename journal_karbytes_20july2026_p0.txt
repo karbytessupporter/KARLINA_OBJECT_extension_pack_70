@@ -284,39 +284,35 @@ karbytes_summer_2026_hiatus(c, 64) :=  { 'https://karbytesforlifeblog.wordpress.
 
 
 
-karbytes_summer_2026_hiatus(c, 65) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_e/' }.
+karbytes_summer_2026_hiatus(c, 65) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_29july2026/' }.
 
 
 
-karbytes_summer_2026_hiatus(c, 66) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_29july2026/' }.
+karbytes_summer_2026_hiatus(c, 66) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_f/' }.
 
 
 
-karbytes_summer_2026_hiatus(c, 67) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_f/' }.
+karbytes_summer_2026_hiatus(c, 67) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_g/' }.
 
 
 
-karbytes_summer_2026_hiatus(c, 68) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_g/' }.
+karbytes_summer_2026_hiatus(c, 68) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_h/' }.
 
 
 
-karbytes_summer_2026_hiatus(c, 69) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_h/' }.
+karbytes_summer_2026_hiatus(c, 69) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_c/' }.
 
 
 
-karbytes_summer_2026_hiatus(c, 70) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_c/' }.
+karbytes_summer_2026_hiatus(c, 70) :=  { 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_18july2026/' }.
 
 
 
-karbytes_summer_2026_hiatus(c, 71) :=  { 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_18july2026/' }.
+karbytes_summer_2026_hiatus(c, 71) :=  { 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_19july2026/' }.
 
 
 
-karbytes_summer_2026_hiatus(c, 72) :=  { 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_19july2026/' }.
-
-
-
-karbytes_summer_2026_hiatus(c, 73) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_i/' }.
+karbytes_summer_2026_hiatus(c, 72) :=  { 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_i/' }.
 
 
 
